@@ -5,66 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-29T20:30:01.554138",
+  "exported_at": "2026-06-29T20:45:01.766781",
   "hours": 48,
-  "total": 632,
-  "ok": 627,
+  "total": 627,
+  "ok": 622,
   "detections": [
-    {
-      "datetime": "2026-06-28T20:29:04",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.774,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:29:10",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.94,
-      "azimute": 178.3,
-      "azimute_std": 0.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:29:13",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.957,
-      "azimute": 179.3,
-      "azimute_std": 0.9,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:29:16",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.956,
-      "azimute": 181.0,
-      "azimute_std": 1.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:33:07",
-      "sci_name": "Strix hylophila",
-      "com_name": "Rusty-barred Owl",
-      "name_pt": "Coruja-listrada",
-      "confidence": 0.633,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-28T20:50:44",
       "sci_name": "Megascops choliba",
