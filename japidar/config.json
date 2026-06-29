@@ -1,0 +1,31 @@
+{
+  "station_name": "Serra do Japi - Casa Principal",
+  "house": {
+    "width_m": 12,
+    "height_m": 9,
+    "axis": "NS"
+  },
+  "respeaker": {
+    "enabled": true,
+    "vendor_id": "0x2886",
+    "product_id": "0x0018",
+    "rotation_offset": 0
+  },
+  "birdnetpi": {
+    "db_path": "/home/guto/BirdNET-Pi/scripts/birds.db",
+    "labels_pt": "/home/guto/BirdNET-Pi/model/l18n/labels_pt.json"
+  },
+  "paths": {
+    "doa_log": "./doa_log.csv",
+    "detections_csv": "./detections_com_azimute.csv"
+  },
+  "server": {
+    "ws_port": 8765,
+    "http_port": 8181
+  },
+  "correlation": {
+    "window_seconds": 6,
+    "min_voice_fraction": 0.3,
+    "history_hours": 24
+  }
+}

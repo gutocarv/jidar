@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>jidar</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0c0c0a;color:#e8e6df;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;height:100vh;display:grid;grid-template-columns:1fr 220px;grid-template-rows:44px 1fr 120px;grid-template-areas:"hd hd" "map side" "log log";gap:0}
+header{grid-area:hd;display:flex;align-items:center;gap:12px;padding:0 1rem;border-bottom:0.5px solid rgba(255,255,255,0.08);flex-wrap:wrap}
+h1{font-size:14px;font-weight:500;color:#9fe1cb}
+#status{font-size:13px;color:#888780}
+#status.on{color:#5dcaa5}
+#time-filter{font-size:12px;padding:3px 8px;background:#1a1a17;border:0.5px solid rgba(255,255,255,0.15);color:#e8e6df;border-radius:5px;cursor:pointer}
+#stats{display:flex;gap:14px;margin-left:auto;font-size:13px;color:#888780}
+#stats span{color:#e8e6df;font-weight:500}
+#doa-bar{font-size:13px;color:#888780;display:flex;gap:6px;align-items:center}
+#doa-dot{width:7px;height:7px;border-radius:50%;background:#5f5e5a;transition:background .3s}
+#doa-dot.on{background:#5dcaa5}
+#map-area{grid-area:map;position:relative;overflow:hidden}
+canvas{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);cursor:crosshair}
+#tooltip{position:fixed;background:#1a1a17;border:0.5px solid rgba(255,255,255,0.15);border-radius:6px;padding:8px 10px;font-size:12px;pointer-events:none;display:none;z-index:100;line-height:1.7;min-width:160px}
+#tooltip .tt-name{font-weight:500;color:#e8e6df;margin-bottom:2px}
+#tooltip .tt-sci{color:#888780;font-style:italic;font-size:11px}
+#tooltip .tt-row{color:#b4b2a9}
+#tooltip .tt-dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle}
+#side{grid-area:side;border-left:0.5px solid rgba(255,255,255,0.08);overflow-y:auto;display:flex;flex-direction:column}
+#panel-det{padding:10px;border-bottom:0.5px solid rgba(255,255,255,0.08);display:none}
+#panel-det img{width:100%;border-radius:6px;margin-bottom:8px;object-fit:cover;max-height:110px}
+#panel-name{font-size:13px;font-weight:500;margin-bottom:2px}
+#panel-sci{font-size:12px;color:#888780;font-style:italic;margin-bottom:4px}
+#panel-info{font-size:12px;color:#888780;line-height:1.5}
+#panel-close{font-size:12px;color:#5dcaa5;cursor:pointer;margin-top:6px;display:block}
+#legend-wrap{padding:10px;flex:1;overflow-y:auto}
+.leg-title{font-size:12px;color:#888780;font-weight:500;margin-bottom:6px}
+.leg-item{display:flex;align-items:flex-start;gap:7px;padding:6px;border-radius:5px;cursor:pointer;font-size:12px;margin-bottom:3px}
+.leg-item:hover{background:rgba(255,255,255,0.04)}
+.leg-item.off{opacity:.3}
+.leg-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-top:2px}
+.leg-pt{font-weight:500}
+.leg-sci{color:#888780;font-size:11px;font-style:italic}
+.leg-n{color:#888780;font-size:11px}
+#log-area{grid-area:log;border-top:0.5px solid rgba(255,255,255,0.08);overflow-y:auto;padding:6px 10px}
+.log-row{display:flex;gap:8px;align-items:center;font-size:12px;padding:2px 4px;border-radius:3px;cursor:pointer}
+.log-row:hover{background:rgba(255,255,255,0.04)}
+.log-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.log-time{color:#5f5e5a;min-width:56px}
+.log-name{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.log-az{color:#888780;min-width:46px;text-align:right}
+.log-q{color:#888780;font-size:11px;min-width:24px;text-align:right}
+.log-new{color:#5dcaa5;font-size:11px}
+.log-sem{color:#5f5e5a;font-style:italic;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="station-name">japidar</h1>
+  <div id="status" class="off">conectando...</div>
+  <select id="time-filter">
+    <option value="1">última 1h</option>
+    <option value="3">últimas 3h</option>
+    <option value="6">últimas 6h</option>
+    <option value="12">últimas 12h</option>
+    <option value="24" selected>últimas 24h</option>
+    <option value="48">últimas 48h</option>
+  </select>
+  <div id="stats">deteccoes: <span id="s-tot">0</span> &nbsp; ok: <span id="s-ok">0</span> &nbsp; especies: <span id="s-spp">0</span></div>
+  <div id="doa-bar"><div id="doa-dot"></div><span id="doa-txt">doa —</span></div>
+</header>
+
+<div id="map-area"><canvas id="c"></canvas></div>
+
+<div id="tooltip">
+  <div class="tt-name" id="tt-name"></div>
+  <div class="tt-sci" id="tt-sci"></div>
+  <div class="tt-row" id="tt-time"></div>
+  <div class="tt-row" id="tt-az"></div>
+  <div class="tt-row" id="tt-conf"></div>
+</div>
+
+<div id="side">
+  <div id="panel-det">
+    <img id="panel-img" src="" alt="">
+    <div id="panel-name"></div>
+    <div id="panel-sci"></div>
+    <div id="panel-info"></div>
+    <span id="panel-close">fechar</span>
+  </div>
+  <div id="legend-wrap">
+    <div class="leg-title">especies detectadas</div>
+    <div id="legend"></div>
+  </div>
+</div>
+
+<div id="log-area"></div>
+
+<script>
+const COLORS=['#1D9E75','#378ADD','#D85A30','#7F77DD','#BA7517','#D4537E','#97C459','#EF9F27','#48B8D0','#C46E9B'];
+const canvas=document.getElementById('c');
+const ctx=canvas.getContext('2d');
+let W=500,H=500,CX=250,CY=250,RADAR_R=190;
+let HOUSE_W=140,HOUSE_H=187;
+
+let cfg={house:{width_m:12,height_m:9},has_doa:true,station_name:'jidar'};
+const allDetections=[];
+const speciesMap={};
+const activeSpecies=new Set();
+let liveDoa=null,liveDoaTs=0;
+let selectedSci=null;
+let filterHours=24;
+let micX=CX,micY=CY; // atualizado em drawBase
+
+// jitter deterministico por deteccao (baseado no index)
+function jitter(index, radius=8){
+  const angle = (index * 137.508) % 360; // angulo aureo - distribui bem
+  const r = (index % 5) * (radius/5);
+  return {
+    dx: r * Math.cos(angle * Math.PI/180),
+    dy: r * Math.sin(angle * Math.PI/180)
+  };
+}
+
+function resize(){
+  const area=document.getElementById('map-area');
+  const sz=Math.min(area.clientWidth,area.clientHeight,520);
+  canvas.width=sz;canvas.height=sz;
+  W=H=sz;CX=CY=sz/2;RADAR_R=sz*0.38;
+  HOUSE_H=Math.round(RADAR_R*0.65);
+  HOUSE_W=Math.round(HOUSE_H*(cfg.house.height_m/cfg.house.width_m));
+}
+
+function deg2rad(d){return d*Math.PI/180}
+function getColor(sci){
+  if(!(sci in speciesMap)){speciesMap[sci]=Object.keys(speciesMap).length;activeSpecies.add(sci);}
+  return COLORS[speciesMap[sci]%COLORS.length];
+}
+
+function filteredDetections(){
+  const cutoff=Date.now() - filterHours*3600*1000;
+  return allDetections.filter(d=>{
+    const ts=new Date(d.datetime).getTime();
+    return ts >= cutoff;
+  });
+}
+
+// logo birdnet pre-carregado
+const BIRD_IMG = new Image();
+BIRD_IMG.src = "data:image/png;base64,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";
+
+function drawBase(){
+  ctx.clearRect(0,0,W,H);
+  ctx.strokeStyle='rgba(255,255,255,0.05)';ctx.lineWidth=.5;ctx.setLineDash([3,3]);
+  ctx.beginPath();ctx.moveTo(CX,10);ctx.lineTo(CX,H-10);ctx.stroke();
+  ctx.beginPath();ctx.moveTo(10,CY);ctx.lineTo(W-10,CY);ctx.stroke();
+  ctx.setLineDash([]);
+
+  const dirs=[{l:'N',a:0},{l:'NE',a:45},{l:'L',a:90},{l:'SE',a:135},{l:'S',a:180},{l:'SO',a:225},{l:'O',a:270},{l:'NO',a:315}];
+  ctx.strokeStyle='rgba(255,255,255,0.09)';ctx.lineWidth=.5;
+  ctx.beginPath();ctx.arc(CX,CY,RADAR_R,0,Math.PI*2);ctx.stroke();
+  ctx.beginPath();ctx.arc(CX,CY,RADAR_R*.6,0,Math.PI*2);ctx.stroke();
+  dirs.forEach(d=>{
+    const r=deg2rad(d.a-90);
+    ctx.strokeStyle=d.l==='N'?'#1D9E75':'rgba(255,255,255,0.12)';
+    ctx.lineWidth=d.l==='N'?1.5:.5;
+    ctx.beginPath();ctx.moveTo(CX+(RADAR_R-5)*Math.cos(r),CY+(RADAR_R-5)*Math.sin(r));
+    ctx.lineTo(CX+(RADAR_R+3)*Math.cos(r),CY+(RADAR_R+3)*Math.sin(r));ctx.stroke();
+    ctx.fillStyle=d.l==='N'?'#5dcaa5':'rgba(255,255,255,0.38)';
+    ctx.font=d.l==='N'?'500 11px sans-serif':'10px sans-serif';
+    ctx.textAlign='center';ctx.textBaseline='middle';
+    ctx.fillText(d.l,CX+(RADAR_R+15)*Math.cos(r),CY+(RADAR_R+15)*Math.sin(r));
+  });
+
+  // escala: pixels por metro
+  const ppm = HOUSE_H / cfg.house.width_m; // HOUSE_H = 12m NS
+  const verandaW = Math.round(3 * ppm);     // 3m LO
+  const verandaH = HOUSE_H;                 // 12m NS = altura total
+
+  const hx = CX - HOUSE_W/2;
+  const hy = CY - HOUSE_H/2;
+
+  // varanda — face Leste (direita da casa)
+  const vx = hx + HOUSE_W; // começa na borda direita da casa
+  const vy = hy;
+  ctx.fillStyle='rgba(29,158,117,0.05)';
+  ctx.strokeStyle='rgba(93,202,165,0.3)';
+  ctx.lineWidth=1;
+  ctx.setLineDash([3,3]);
+  ctx.beginPath();ctx.roundRect(vx,vy,verandaW,verandaH,2);ctx.fill();ctx.stroke();
+  ctx.setLineDash([]);
+  ctx.fillStyle='rgba(93,202,165,0.2)';ctx.font='9px sans-serif';
+  ctx.textAlign='center';ctx.textBaseline='middle';
+  ctx.save();ctx.translate(vx+verandaW/2,vy+verandaH/2);ctx.rotate(Math.PI/2);
+  ctx.fillText('varanda',0,0);ctx.restore();
+
+  // casa
+  ctx.fillStyle='rgba(29,158,117,0.08)';ctx.strokeStyle='rgba(93,202,165,0.55)';ctx.lineWidth=1.5;
+  ctx.setLineDash([]);
+  ctx.beginPath();ctx.roundRect(hx,hy,HOUSE_W,HOUSE_H,3);ctx.fill();ctx.stroke();
+  ctx.fillStyle='rgba(93,202,165,0.38)';ctx.font='500 10px sans-serif';ctx.textAlign='center';
+  ctx.fillText('casa',CX,CY);
+  ctx.fillStyle='rgba(255,255,255,0.25)';ctx.font='10px sans-serif';
+  ctx.fillText(cfg.house.width_m+'m',CX,hy-7);
+  ctx.save();ctx.translate(hx-12,CY);ctx.rotate(-Math.PI/2);ctx.fillText(cfg.house.height_m+'m',0,0);ctx.restore();
+
+  // posicao do ReSpeaker: 3m do Norte da varanda, 1m da face Leste da varanda
+  // Norte da varanda = vy (topo), 3m para Sul = 3*ppm pixels abaixo do topo
+  // face Leste da varanda = vx+verandaW, 1m para Oeste = verandaW - 1*ppm
+  micX = vx + verandaW - Math.round(1 * ppm);
+  micY = vy + Math.round(3 * ppm);
+  if(BIRD_IMG.complete){
+    const sz=18;
+    ctx.drawImage(BIRD_IMG, micX-sz/2, micY-sz/2, sz, sz);
+  } else {
+    ctx.beginPath();ctx.arc(micX,micY,5,0,Math.PI*2);
+    ctx.fillStyle='#D85A30';ctx.fill();
+  }
+  ctx.fillStyle='rgba(255,255,255,0.3)';ctx.font='9px sans-serif';
+  ctx.textAlign='left';ctx.textBaseline='top';
+  ctx.fillText('mic',micX+8,micY-4);
+
+  if(!cfg.has_doa){
+    ctx.fillStyle='rgba(255,255,255,0.18)';ctx.font='11px sans-serif';ctx.textAlign='center';
+    ctx.fillText('sem DOA nesta estacao',CX,CY+HOUSE_H/2+20);
+  }
+}
+
+function drawLiveDoa(){
+  if(!liveDoa||!cfg.has_doa) return;
+  const age=(Date.now()-liveDoaTs)/1000;
+  if(age>10) return;
+  const alpha=Math.max(0,1-age/10)*0.45;
+  const r=deg2rad(liveDoa-90);
+  ctx.save();ctx.globalAlpha=alpha;
+  ctx.strokeStyle='#5dcaa5';ctx.lineWidth=1;ctx.setLineDash([4,4]);
+  ctx.beginPath();ctx.moveTo(micX,micY);ctx.lineTo(micX+RADAR_R*Math.cos(r),micY+RADAR_R*Math.sin(r));ctx.stroke();
+  ctx.setLineDash([]);ctx.restore();
+}
+
+let hitAreas=[];
+function drawDetections(){
+  hitAreas=[];
+  const visible=filteredDetections().filter(d=>d.azimute!=null&&activeSpecies.has(d.sci_name));
+
+  visible.forEach((d,i)=>{
+    const r=deg2rad(d.azimute-90);
+    const dist=RADAR_R-16;
+    const j=jitter(i, 12);
+    const x=micX+dist*Math.cos(r)+j.dx;
+    const y=micY+dist*Math.sin(r)+j.dy;
+    const color=getColor(d.sci_name);
+    const selected=selectedSci===d.sci_name;
+    const isNew=d.historic===false;
+    const size=isNew?7:5;
+
+    ctx.strokeStyle=color+(selected?'66':'22');ctx.lineWidth=.5;ctx.setLineDash([2,4]);
+    ctx.beginPath();ctx.moveTo(micX,micY);ctx.lineTo(x,y);ctx.stroke();ctx.setLineDash([]);
+
+    if(selected||isNew){
+      ctx.beginPath();ctx.arc(x,y,size+5,0,Math.PI*2);
+      ctx.strokeStyle=color+'44';ctx.lineWidth=1;ctx.stroke();
+    }
+    ctx.beginPath();ctx.arc(x,y,size,0,Math.PI*2);
+    ctx.fillStyle=color+(selected?'ff':isNew?'dd':'77');ctx.fill();
+    ctx.strokeStyle=color;ctx.lineWidth=selected?1.5:.8;ctx.stroke();
+
+    hitAreas.push({x,y,r:size+4,d});
+  });
+
+  // labels agrupados por especie (um label por especie, na media dos pontos)
+  const speciesCenters={};
+  visible.forEach((d,i)=>{
+    if(!activeSpecies.has(d.sci_name)||d.azimute==null) return;
+    const r=deg2rad(d.azimute-90);
+    const j=jitter(i,12);
+    const x=micX+(RADAR_R-16)*Math.cos(r)+j.dx;
+    const y=micY+(RADAR_R-16)*Math.sin(r)+j.dy;
+    if(!speciesCenters[d.sci_name]){speciesCenters[d.sci_name]={xs:[],ys:[],pt:d.name_pt,color:getColor(d.sci_name)};}
+    speciesCenters[d.sci_name].xs.push(x);
+    speciesCenters[d.sci_name].ys.push(y);
+  });
+  Object.values(speciesCenters).forEach(s=>{
+    const mx=s.xs.reduce((a,b)=>a+b,0)/s.xs.length;
+    const my=s.ys.reduce((a,b)=>a+b,0)/s.ys.length;
+    const nx=micX+(mx-micX)*1.18, ny=micY+(my-micY)*1.18;
+    ctx.fillStyle=s.color;ctx.font='500 10px sans-serif';
+    ctx.textAlign=nx>CX+20?'left':nx<CX-20?'right':'center';ctx.textBaseline='middle';
+    ctx.fillText(s.pt||s.sci_name,nx,ny);
+  });
+}
+
+function render(){
+  drawBase();drawLiveDoa();drawDetections();
+  requestAnimationFrame(render);
+}
+
+// tooltip on hover
+canvas.addEventListener('mousemove',e=>{
+  const rect=canvas.getBoundingClientRect();
+  const scaleX=canvas.width/rect.width, scaleY=canvas.height/rect.height;
+  const mx=(e.clientX-rect.left)*scaleX, my=(e.clientY-rect.top)*scaleY;
+  const tip=document.getElementById('tooltip');
+  for(const h of hitAreas){
+    if(Math.hypot(mx-h.x,my-h.y)<=h.r){
+      const d=h.d;
+      const color=getColor(d.sci_name);
+      document.getElementById('tt-name').innerHTML=`<span class="tt-dot" style="background:${color}"></span>${d.name_pt||d.com_name}`;
+      document.getElementById('tt-sci').textContent=d.sci_name;
+      document.getElementById('tt-time').textContent='⏱ '+(d.datetime||'').replace('T',' ').slice(0,19);
+      document.getElementById('tt-az').textContent=d.azimute!=null?`⟳ ${d.azimute.toFixed(1)}° ${d.quadrante}`:'sem azimute';
+      document.getElementById('tt-conf').textContent=`★ confiança ${(d.confidence*100).toFixed(0)}%`;
+      tip.style.display='block';
+      tip.style.left=(e.clientX+14)+'px';
+      tip.style.top=(e.clientY-10)+'px';
+      return;
+    }
+  }
+  tip.style.display='none';
+});
+canvas.addEventListener('mouseleave',()=>document.getElementById('tooltip').style.display='none');
+
+// clique para painel lateral
+canvas.addEventListener('click',e=>{
+  const rect=canvas.getBoundingClientRect();
+  const scaleX=canvas.width/rect.width, scaleY=canvas.height/rect.height;
+  const mx=(e.clientX-rect.left)*scaleX, my=(e.clientY-rect.top)*scaleY;
+  for(const h of hitAreas){
+    if(Math.hypot(mx-h.x,my-h.y)<=h.r){
+      openPanel(h.d); return;
+    }
+  }
+  closePanel();
+});
+
+async function openPanel(d){
+  selectedSci=d.sci_name;
+  const panel=document.getElementById('panel-det');
+  panel.style.display='block';
+  document.getElementById('panel-name').textContent=d.name_pt||d.com_name;
+  document.getElementById('panel-sci').textContent=d.sci_name;
+  const dets=allDetections.filter(x=>x.sci_name===d.sci_name);
+  const ok=dets.filter(x=>x.qualidade==='ok'&&x.azimute!=null);
+  // media circular correta
+  let azMed='—';
+  if(ok.length){
+    const s=ok.reduce((a,x)=>a+Math.sin(x.azimute*Math.PI/180),0);
+    const c=ok.reduce((a,x)=>a+Math.cos(x.azimute*Math.PI/180),0);
+    azMed=(Math.atan2(s,c)*180/Math.PI+360).toFixed(1)+'°';
+  }
+  // quadrante do azimute medio
+  const azQuad=ok.length?(()=>{const a=parseFloat(azMed)%360;return a<22.5||a>=337.5?'N':a<67.5?'NE':a<112.5?'L':a<157.5?'SE':a<202.5?'S':a<247.5?'SO':a<292.5?'O':'NO';})():'';
+  document.getElementById('panel-info').innerHTML=
+    `${dets.length} deteccoes &nbsp;|&nbsp; ${ok.length} com azimute<br>`+
+    (ok.length?`azimute: ${azMed} ${azQuad}`:'sem dados de azimute');
+  document.getElementById('panel-img').style.display='block';
+  document.getElementById('panel-img').src='';
+  try{
+    const r=await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(d.sci_name.replace(' ','_'))}`);
+    const data=await r.json();
+    if(data.thumbnail) document.getElementById('panel-img').src=data.thumbnail.source;
+    else document.getElementById('panel-img').style.display='none';
+  }catch(e){document.getElementById('panel-img').style.display='none';}
+}
+
+function closePanel(){
+  selectedSci=null;
+  document.getElementById('panel-det').style.display='none';
+}
+document.getElementById('panel-close').addEventListener('click',closePanel);
+
+// filtro de tempo
+document.getElementById('time-filter').addEventListener('change',e=>{
+  filterHours=parseInt(e.target.value);
+  updateStats();updateLegend();rebuildLog();
+});
+
+function updateLegend(){
+  const leg=document.getElementById('legend');
+  leg.innerHTML='';
+  const visible=filteredDetections();
+  const sciInView=new Set(visible.map(d=>d.sci_name));
+  Object.keys(speciesMap).forEach(sci=>{
+    const dets=visible.filter(d=>d.sci_name===sci);
+    if(!dets.length) return;
+    const ok=dets.filter(d=>d.qualidade==='ok').length;
+    const pt=dets[0]?.name_pt||sci;
+    const color=getColor(sci);
+    const div=document.createElement('div');
+    div.className='leg-item'+(activeSpecies.has(sci)?'':' off');
+    div.innerHTML=`<div class="leg-dot" style="background:${color}"></div><div>
+      <div class="leg-pt">${pt}</div>
+      <div class="leg-sci">${sci}</div>
+      <div class="leg-n">${ok} ok / ${dets.length} total</div></div>`;
+    div.addEventListener('click',()=>{
+      if(activeSpecies.has(sci)) activeSpecies.delete(sci); else activeSpecies.add(sci);
+      div.classList.toggle('off');
+    });
+    leg.appendChild(div);
+  });
+}
+
+function rebuildLog(){
+  const log=document.getElementById('log-area');
+  log.innerHTML='';
+  const visible=[...filteredDetections()].reverse();
+  visible.forEach(d=>addLogRow(d,false));
+}
+
+function addLogRow(d, prepend=true){
+  const log=document.getElementById('log-area');
+  const color=getColor(d.sci_name);
+  const t=(d.datetime||'').replace('T',' ').slice(11,19);
+  const row=document.createElement('div');row.className='log-row';
+  row.addEventListener('click',()=>openPanel(d));
+  if(d.qualidade==='ok'){
+    row.innerHTML=`<div class="log-dot" style="background:${color}"></div>
+      <span class="log-time">${t}</span>
+      <span class="log-name">${d.name_pt||d.com_name}</span>
+      <span class="log-az">${d.azimute!=null?d.azimute.toFixed(1)+'°':''}</span>
+      <span class="log-q">${d.quadrante||''}</span>
+      ${d.historic===false?'<span class="log-new">novo</span>':''}`;
+  } else {
+    row.innerHTML=`<div class="log-dot" style="background:#5f5e5a"></div>
+      <span class="log-time">${t}</span>
+      <span class="log-name log-sem">${d.name_pt||d.com_name}</span>
+      <span class="log-q log-sem">${d.qualidade}</span>`;
+  }
+  if(prepend) log.insertBefore(row,log.firstChild);
+  else log.appendChild(row);
+  while(log.children.length>120) log.removeChild(log.lastChild);
+}
+
+function updateStats(){
+  const v=filteredDetections();
+  document.getElementById('s-tot').textContent=v.length;
+  document.getElementById('s-ok').textContent=v.filter(d=>d.qualidade==='ok').length;
+  document.getElementById('s-spp').textContent=new Set(v.map(d=>d.sci_name)).size;
+}
+
+function addDetection(d){
+  getColor(d.sci_name);
+  allDetections.push(d);
+  updateStats();updateLegend();
+  if(d.historic===false) addLogRow(d,true);
+}
+
+function connect(){
+  const ws=new WebSocket(`ws://${window.location.hostname}:8765`);
+  const st=document.getElementById('status');
+  ws.onopen=()=>{st.textContent='conectado';st.className='on';};
+  ws.onmessage=ev=>{
+    const msg=JSON.parse(ev.data);
+    if(msg.type==='snapshot'){
+      if(msg.station) document.getElementById('station-name').textContent=msg.station;
+      if(msg.house) cfg.house=msg.house;
+      if(typeof msg.has_doa!=='undefined') cfg.has_doa=msg.has_doa;
+      resize();
+      msg.events.forEach(d=>{getColor(d.sci_name);allDetections.push(d);});
+      updateStats();updateLegend();rebuildLog();
+    } else if(msg.type==='detection'){
+      addDetection(msg);
+    } else if(msg.type==='doa_live'){
+      liveDoa=msg.azimute; liveDoaTs=Date.now();
+      const dot=document.getElementById('doa-dot');
+      document.getElementById('doa-txt').textContent=`doa ${msg.azimute}°${msg.is_voice?' ◉':''}`;
+      dot.className=msg.is_voice?'on':'';
+    }
+  };
+  ws.onclose=()=>{st.textContent='desconectado...';st.className='off';setTimeout(connect,2000);};
+  ws.onerror=()=>ws.close();
+}
+
+window.addEventListener('resize',()=>{resize();});
+resize();render();connect();
+</script>
+</body>
+</html>
