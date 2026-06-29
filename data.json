@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-29T20:15:01.583552",
+  "exported_at": "2026-06-29T20:30:01.554138",
   "hours": 48,
-  "total": 635,
-  "ok": 630,
+  "total": 632,
+  "ok": 627,
   "detections": [
-    {
-      "datetime": "2026-06-28T20:11:01",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.939,
-      "azimute": 163.8,
-      "azimute_std": 1.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:11:04",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.838,
-      "azimute": 167.3,
-      "azimute_std": 2.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T20:11:07",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.835,
-      "azimute": 171.2,
-      "azimute_std": 1.2,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-28T20:29:04",
       "sci_name": "Pitangus sulphuratus",
