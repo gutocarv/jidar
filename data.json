@@ -5,88 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T13:00:01.938970",
+  "exported_at": "2026-06-30T13:15:01.565964",
   "hours": 48,
-  "total": 142,
-  "ok": 141,
+  "total": 136,
+  "ok": 135,
   "detections": [
-    {
-      "datetime": "2026-06-29T12:55:48",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.605,
-      "azimute": 272.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:55:51",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.575,
-      "azimute": 272.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:56:12",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.603,
-      "azimute": 273.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:56:21",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.724,
-      "azimute": 273.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:56:30",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.674,
-      "azimute": 273.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:56:39",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.645,
-      "azimute": 273.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T12:57:57",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.643,
-      "azimute": 273.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T13:11:30",
       "sci_name": "Coereba flaveola",
@@ -1567,10 +1490,21 @@
       "com_name": "Bananaquit",
       "name_pt": "Cambacica",
       "confidence": 0.867,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 53.0,
+      "azimute_std": 66.5,
+      "quadrante": "NE",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-06-30T12:55:30",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.515,
+      "azimute": 353.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
     }
   ]
 }
