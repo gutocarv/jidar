@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T19:15:01.679205",
+  "exported_at": "2026-06-30T19:30:01.853792",
   "hours": 48,
-  "total": 222,
-  "ok": 220,
+  "total": 216,
+  "ok": 214,
   "detections": [
-    {
-      "datetime": "2026-06-29T19:18:17",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.861,
-      "azimute": 178.3,
-      "azimute_std": 0.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T19:18:20",
-      "sci_name": "Pitangus sulphuratus",
-      "com_name": "Great Kiskadee",
-      "name_pt": "Bem-te-vi",
-      "confidence": 0.833,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T19:18:41",
-      "sci_name": "Rupornis magnirostris",
-      "com_name": "Roadside Hawk",
-      "name_pt": "Bútio-carijó",
-      "confidence": 0.917,
-      "azimute": 177.7,
-      "azimute_std": 0.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T19:18:44",
-      "sci_name": "Rupornis magnirostris",
-      "com_name": "Roadside Hawk",
-      "name_pt": "Bútio-carijó",
-      "confidence": 0.818,
-      "azimute": 177.2,
-      "azimute_std": 0.4,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T19:18:47",
-      "sci_name": "Rupornis magnirostris",
-      "com_name": "Roadside Hawk",
-      "name_pt": "Bútio-carijó",
-      "confidence": 0.635,
-      "azimute": 176.5,
-      "azimute_std": 0.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T19:18:50",
-      "sci_name": "Rupornis magnirostris",
-      "com_name": "Roadside Hawk",
-      "name_pt": "Bútio-carijó",
-      "confidence": 0.948,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T20:56:17",
       "sci_name": "Megascops choliba",
