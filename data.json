@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T00:00:01.829253",
+  "exported_at": "2026-06-30T00:15:01.593849",
   "hours": 48,
-  "total": 440,
-  "ok": 436,
+  "total": 434,
+  "ok": 430,
   "detections": [
-    {
-      "datetime": "2026-06-28T23:56:23",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.558,
-      "azimute": 179.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T23:58:14",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.541,
-      "azimute": 188.7,
-      "azimute_std": 1.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T23:58:38",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.619,
-      "azimute": 191.7,
-      "azimute_std": 2.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T00:02:17",
-      "sci_name": "Cacicus haemorrhous",
-      "com_name": "Red-rumped Cacique",
-      "name_pt": "Guaxe",
-      "confidence": 0.543,
-      "azimute": 183.7,
-      "azimute_std": 0.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T00:02:41",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.523,
-      "azimute": 182.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T00:09:05",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.5,
-      "azimute": 180.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T00:30:20",
       "sci_name": "Megascops choliba",
