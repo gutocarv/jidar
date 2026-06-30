@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T14:45:02.012951",
+  "exported_at": "2026-06-30T15:00:01.881874",
   "hours": 48,
-  "total": 136,
-  "ok": 134,
+  "total": 137,
+  "ok": 135,
   "detections": [
     {
       "datetime": "2026-06-29T17:24:41",
@@ -1502,6 +1502,17 @@
       "name_pt": "Chorozinho-de-asa-vermelha",
       "confidence": 0.632,
       "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:43:33",
+      "sci_name": "Columba livia",
+      "com_name": "Rock Pigeon",
+      "name_pt": "Pombo-das-rochas",
+      "confidence": 0.552,
+      "azimute": 94.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
