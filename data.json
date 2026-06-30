@@ -5,99 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T09:30:01.884583",
+  "exported_at": "2026-06-30T09:45:01.616389",
   "hours": 48,
-  "total": 401,
-  "ok": 399,
+  "total": 394,
+  "ok": 392,
   "detections": [
-    {
-      "datetime": "2026-06-29T09:25:41",
-      "sci_name": "Pyroderus scutatus",
-      "com_name": "Red-ruffed Fruitcrow",
-      "name_pt": "Pavó",
-      "confidence": 0.718,
-      "azimute": 289.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:32:26",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.507,
-      "azimute": 92.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:33:32",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.675,
-      "azimute": 92.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:34:29",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.544,
-      "azimute": 91.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:38:44",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.56,
-      "azimute": 93.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:39:11",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.694,
-      "azimute": 93.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:39:32",
-      "sci_name": "Sittasomus griseicapillus",
-      "com_name": "Olivaceous Woodcreeper",
-      "name_pt": "Arapaçu-verde",
-      "confidence": 0.65,
-      "azimute": 94.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:39:56",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.62,
-      "azimute": 93.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T09:40:17",
       "sci_name": "Tolmomyias sulphurescens",
@@ -4419,6 +4331,17 @@
       "azimute": 178.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T09:25:26",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.674,
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
       "qualidade": "ok"
     }
   ]
