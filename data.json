@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T04:15:01.344311",
+  "exported_at": "2026-06-30T04:30:02.196897",
   "hours": 48,
-  "total": 427,
-  "ok": 423,
+  "total": 426,
+  "ok": 422,
   "detections": [
-    {
-      "datetime": "2026-06-29T04:21:02",
-      "sci_name": "Chiroxiphia caudata",
-      "com_name": "Swallow-tailed Manakin",
-      "name_pt": "Tangará",
-      "confidence": 0.536,
-      "azimute": 111.5,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T06:33:08",
       "sci_name": "Turdus leucomelas",
