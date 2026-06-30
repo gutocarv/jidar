@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T02:30:02.108271",
+  "exported_at": "2026-06-30T02:45:01.330272",
   "hours": 48,
   "total": 426,
   "ok": 422,
   "detections": [
-    {
-      "datetime": "2026-06-29T02:26:32",
-      "sci_name": "Tyto alba",
-      "com_name": "Barn Owl",
-      "name_pt": "Coruja-das-torres",
-      "confidence": 0.691,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T02:37:02",
-      "sci_name": "Tyto alba",
-      "com_name": "Barn Owl",
-      "name_pt": "Coruja-das-torres",
-      "confidence": 0.516,
-      "azimute": 165.7,
-      "azimute_std": 0.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T03:17:41",
       "sci_name": "Tyto alba",
@@ -4693,6 +4671,28 @@
       "confidence": 0.513,
       "azimute": 114.5,
       "azimute_std": 1.1,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T02:31:38",
+      "sci_name": "Thamnophilus doliatus",
+      "com_name": "Barred Antshrike",
+      "name_pt": "Choca-barrada",
+      "confidence": 0.563,
+      "azimute": 120.8,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T02:32:05",
+      "sci_name": "Tyto alba",
+      "com_name": "Barn Owl",
+      "name_pt": "Coruja-das-torres",
+      "confidence": 0.669,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
     }
