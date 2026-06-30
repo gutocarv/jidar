@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T13:30:01.394687",
+  "exported_at": "2026-06-30T13:45:02.001938",
   "hours": 48,
-  "total": 125,
-  "ok": 124,
+  "total": 124,
+  "ok": 123,
   "detections": [
-    {
-      "datetime": "2026-06-29T13:30:18",
-      "sci_name": "Myiothlypis flaveola",
-      "com_name": "Flavescent Warbler",
-      "name_pt": "Canário-do-mato",
-      "confidence": 0.597,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T13:43:12",
       "sci_name": "Leptotila verreauxi",
