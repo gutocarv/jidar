@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T18:30:01.333223",
+  "exported_at": "2026-06-30T18:45:01.894143",
   "hours": 48,
   "total": 226,
-  "ok": 223,
+  "ok": 224,
   "detections": [
     {
       "datetime": "2026-06-29T18:50:02",
@@ -2491,10 +2491,10 @@
       "com_name": "Mottled Owl",
       "name_pt": "Coruja-do-mato-neotropical",
       "confidence": 0.508,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
     }
   ]
 }
