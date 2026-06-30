@@ -5,220 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T10:30:01.823632",
+  "exported_at": "2026-06-30T10:45:02.173959",
   "hours": 48,
-  "total": 255,
-  "ok": 252,
+  "total": 237,
+  "ok": 236,
   "detections": [
-    {
-      "datetime": "2026-06-29T10:25:14",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.618,
-      "azimute": 85.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:27:35",
-      "sci_name": "Sittasomus griseicapillus",
-      "com_name": "Olivaceous Woodcreeper",
-      "name_pt": "Arapaçu-verde",
-      "confidence": 0.926,
-      "azimute": 355.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:28:11",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.731,
-      "azimute": 67.5,
-      "azimute_std": 31.3,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:30:47",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.578,
-      "azimute": 78.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:30:50",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.611,
-      "azimute": 76.6,
-      "azimute_std": 1.7,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:31:20",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.856,
-      "azimute": 80.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:31:41",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.701,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:31:50",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.846,
-      "azimute": 190.7,
-      "azimute_std": 40.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:31:53",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.546,
-      "azimute": 128.7,
-      "azimute_std": 60.1,
-      "quadrante": "SE",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-06-29T10:32:08",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.628,
-      "azimute": 212.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:11",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.602,
-      "azimute": 212.5,
-      "azimute_std": 0.5,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:17",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.758,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:20",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.688,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:23",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.912,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:26",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.861,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:35",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.736,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:32:44",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.695,
-      "azimute": 213.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:33:57",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.679,
-      "azimute": 213.8,
-      "azimute_std": 0.4,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:36:14",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.68,
-      "azimute": 175.2,
-      "azimute_std": 0.4,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T10:52:44",
       "sci_name": "Leptotila verreauxi",
@@ -2810,10 +2601,21 @@
       "com_name": "White-spotted Woodpecker",
       "name_pt": "Picapauzinho-verde-carijó",
       "confidence": 0.547,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T10:39:11",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.572,
+      "azimute": 180.8,
+      "azimute_std": 0.4,
+      "quadrante": "S",
+      "qualidade": "ok"
     }
   ]
 }
