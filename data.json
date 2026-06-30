@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-29T20:45:01.766781",
+  "exported_at": "2026-06-29T21:00:01.776991",
   "hours": 48,
-  "total": 627,
-  "ok": 622,
+  "total": 626,
+  "ok": 621,
   "detections": [
-    {
-      "datetime": "2026-06-28T20:50:44",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.62,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-28T21:02:38",
       "sci_name": "Megascops choliba",
