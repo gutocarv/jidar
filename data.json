@@ -5,88 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T09:15:01.377179",
+  "exported_at": "2026-06-30T09:30:01.884583",
   "hours": 48,
-  "total": 408,
-  "ok": 405,
+  "total": 401,
+  "ok": 399,
   "detections": [
-    {
-      "datetime": "2026-06-29T09:12:35",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.674,
-      "azimute": 182.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:14:26",
-      "sci_name": "Myiothlypis flaveola",
-      "com_name": "Flavescent Warbler",
-      "name_pt": "Canário-do-mato",
-      "confidence": 0.783,
-      "azimute": 182.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:16:11",
-      "sci_name": "Sittasomus griseicapillus",
-      "com_name": "Olivaceous Woodcreeper",
-      "name_pt": "Arapaçu-verde",
-      "confidence": 0.818,
-      "azimute": 182.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:16:14",
-      "sci_name": "Sittasomus griseicapillus",
-      "com_name": "Olivaceous Woodcreeper",
-      "name_pt": "Arapaçu-verde",
-      "confidence": 0.987,
-      "azimute": 211.0,
-      "azimute_std": 52.8,
-      "quadrante": "SO",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-06-29T09:19:05",
-      "sci_name": "Camptostoma obsoletum",
-      "com_name": "Southern Beardless-Tyrannulet",
-      "name_pt": "Risadinha",
-      "confidence": 0.708,
-      "azimute": 289.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:22:44",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.706,
-      "azimute": 288.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T09:22:47",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.572,
-      "azimute": 288.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T09:25:41",
       "sci_name": "Pyroderus scutatus",
