@@ -5,231 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T10:15:01.901068",
+  "exported_at": "2026-06-30T10:30:01.823632",
   "hours": 48,
-  "total": 274,
-  "ok": 272,
+  "total": 255,
+  "ok": 252,
   "detections": [
-    {
-      "datetime": "2026-06-29T10:10:02",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.945,
-      "azimute": 4.2,
-      "azimute_std": 0.4,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:05",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.832,
-      "azimute": 4.7,
-      "azimute_std": 0.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:17",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.788,
-      "azimute": 9.2,
-      "azimute_std": 1.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:20",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.812,
-      "azimute": 12.0,
-      "azimute_std": 2.2,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:35",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.523,
-      "azimute": 15.8,
-      "azimute_std": 1.6,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:47",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.721,
-      "azimute": 17.4,
-      "azimute_std": 6.9,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:10:59",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.723,
-      "azimute": 11.8,
-      "azimute_std": 0.4,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:02",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.877,
-      "azimute": 11.3,
-      "azimute_std": 0.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:05",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.748,
-      "azimute": 11.2,
-      "azimute_std": 0.4,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:08",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.803,
-      "azimute": 11.7,
-      "azimute_std": 0.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:11",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.89,
-      "azimute": 12.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:14",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.922,
-      "azimute": 12.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:11:17",
-      "sci_name": "Synallaxis spixi",
-      "com_name": "Spix's Spinetail",
-      "name_pt": "João-teneném",
-      "confidence": 0.873,
-      "azimute": 12.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:17:35",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.548,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:17:41",
-      "sci_name": "Sittasomus griseicapillus",
-      "com_name": "Olivaceous Woodcreeper",
-      "name_pt": "Arapaçu-verde",
-      "confidence": 0.87,
-      "azimute": 97.4,
-      "azimute_std": 4.8,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:22:11",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.574,
-      "azimute": 163.9,
-      "azimute_std": 19.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:22:32",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.625,
-      "azimute": 120.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:22:47",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.653,
-      "azimute": 120.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:22:56",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.758,
-      "azimute": 120.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T10:24:05",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.728,
-      "azimute": 85.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T10:25:14",
       "sci_name": "Columbina talpacoti",
@@ -3023,6 +2803,17 @@
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T10:24:27",
+      "sci_name": "Dryobates spilogaster",
+      "com_name": "White-spotted Woodpecker",
+      "name_pt": "Picapauzinho-verde-carijó",
+      "confidence": 0.547,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
