@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T00:45:01.631046",
+  "exported_at": "2026-06-30T01:00:01.810765",
   "hours": 48,
-  "total": 433,
-  "ok": 429,
+  "total": 432,
+  "ok": 428,
   "detections": [
-    {
-      "datetime": "2026-06-29T00:44:20",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.53,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-29T00:46:41",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.578,
-      "azimute": 142.3,
-      "azimute_std": 0.5,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T00:56:20",
       "sci_name": "Megascops choliba",
@@ -4769,6 +4747,17 @@
       "name_pt": "Pavó",
       "confidence": 0.577,
       "azimute": 117.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T00:45:17",
+      "sci_name": "Nycticorax nycticorax",
+      "com_name": "Black-crowned Night-Heron",
+      "name_pt": "Goraz",
+      "confidence": 0.613,
+      "azimute": 115.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
