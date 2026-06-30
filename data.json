@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-29T21:00:01.776991",
+  "exported_at": "2026-06-29T21:15:01.629208",
   "hours": 48,
-  "total": 626,
-  "ok": 621,
+  "total": 625,
+  "ok": 620,
   "detections": [
-    {
-      "datetime": "2026-06-28T21:02:38",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.52,
-      "azimute": 183.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-28T21:03:08",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.512,
-      "azimute": 183.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-28T21:28:17",
       "sci_name": "Megascops choliba",
@@ -6894,6 +6872,17 @@
       "azimute": 176.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-29T20:56:17",
+      "sci_name": "Megascops choliba",
+      "com_name": "Tropical Screech-Owl",
+      "name_pt": "Corujinha-do-mato",
+      "confidence": 0.631,
+      "azimute": 116.8,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
