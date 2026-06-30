@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T14:15:01.891331",
+  "exported_at": "2026-06-30T14:30:01.506545",
   "hours": 48,
-  "total": 122,
-  "ok": 120,
+  "total": 128,
+  "ok": 126,
   "detections": [
     {
       "datetime": "2026-06-29T17:24:41",
@@ -1351,6 +1351,72 @@
       "azimute_std": 98.4,
       "quadrante": "O",
       "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-06-30T14:13:27",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.82,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:13:30",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.931,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:13:33",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.56,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:13:42",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.761,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:14:18",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.774,
+      "azimute": 293.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T14:19:45",
+      "sci_name": "Thraupis sayaca",
+      "com_name": "Sayaca Tanager",
+      "name_pt": "Sanhaço-cinzento",
+      "confidence": 0.523,
+      "azimute": 359.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
     }
   ]
 }
