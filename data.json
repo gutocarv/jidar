@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T06:30:01.689306",
+  "exported_at": "2026-06-30T06:45:01.751564",
   "hours": 48,
-  "total": 426,
-  "ok": 422,
+  "total": 425,
+  "ok": 421,
   "detections": [
-    {
-      "datetime": "2026-06-29T06:33:08",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.65,
-      "azimute": 177.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T07:13:38",
       "sci_name": "Tachyphonus coronatus",
