@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T06:00:01.957863",
+  "exported_at": "2026-07-01T06:15:01.477934",
   "hours": 48,
-  "total": 215,
-  "ok": 213,
+  "total": 216,
+  "ok": 214,
   "detections": [
     {
       "datetime": "2026-06-30T07:03:02",
@@ -2371,6 +2371,17 @@
       "name_pt": "Coruja-das-torres",
       "confidence": 0.564,
       "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T06:02:57",
+      "sci_name": "Dromococcyx pavoninus",
+      "com_name": "Pavonine Cuckoo",
+      "name_pt": "Peixe-frito-pavonino",
+      "confidence": 0.601,
+      "azimute": 147.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
