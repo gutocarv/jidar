@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T14:00:01.879796",
+  "exported_at": "2026-07-01T14:15:01.751795",
   "hours": 48,
-  "total": 328,
-  "ok": 327,
+  "total": 330,
+  "ok": 329,
   "detections": [
     {
       "datetime": "2026-06-30T14:13:27",
@@ -3616,6 +3616,28 @@
       "azimute": 111.5,
       "azimute_std": 0.8,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:55:39",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.538,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:55:54",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.741,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
