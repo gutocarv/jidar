@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T14:45:02.013167",
+  "exported_at": "2026-07-01T15:00:01.887088",
   "hours": 48,
-  "total": 317,
-  "ok": 316,
+  "total": 316,
+  "ok": 315,
   "detections": [
-    {
-      "datetime": "2026-06-30T14:43:33",
-      "sci_name": "Columba livia",
-      "com_name": "Rock Pigeon",
-      "name_pt": "Pombo-das-rochas",
-      "confidence": 0.552,
-      "azimute": 94.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T15:06:42",
       "sci_name": "Turdus leucomelas",
