@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T08:45:02.149364",
+  "exported_at": "2026-07-01T09:00:02.180902",
   "hours": 48,
-  "total": 277,
-  "ok": 272,
+  "total": 282,
+  "ok": 280,
   "detections": [
     {
       "datetime": "2026-06-30T08:58:53",
@@ -3030,10 +3030,10 @@
       "com_name": "Spot-backed Antshrike",
       "name_pt": "Chocão-carijó",
       "confidence": 0.837,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T08:39:45",
@@ -3041,10 +3041,10 @@
       "com_name": "Spot-backed Antshrike",
       "name_pt": "Chocão-carijó",
       "confidence": 0.505,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T08:39:48",
@@ -3052,10 +3052,65 @@
       "com_name": "Spot-backed Antshrike",
       "name_pt": "Chocão-carijó",
       "confidence": 0.632,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T08:40:03",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.544,
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T08:40:06",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.659,
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T08:40:36",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.674,
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T08:48:33",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.682,
+      "azimute": 120.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T08:48:39",
+      "sci_name": "Pygochelidon cyanoleuca",
+      "com_name": "Blue-and-white Swallow",
+      "name_pt": "Andorinha-doméstica-pequena",
+      "confidence": 0.536,
+      "azimute": 65.4,
+      "azimute_std": 23.6,
+      "quadrante": "NE",
+      "qualidade": "ok"
     }
   ]
 }
