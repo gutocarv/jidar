@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T02:15:01.278346",
+  "exported_at": "2026-07-01T02:30:02.050695",
   "hours": 48,
-  "total": 215,
-  "ok": 213,
+  "total": 216,
+  "ok": 214,
   "detections": [
-    {
-      "datetime": "2026-06-30T02:20:53",
-      "sci_name": "Tyto alba",
-      "com_name": "Barn Owl",
-      "name_pt": "Coruja-das-torres",
-      "confidence": 0.513,
-      "azimute": 114.5,
-      "azimute_std": 1.1,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T02:31:38",
       "sci_name": "Thamnophilus doliatus",
@@ -2373,6 +2362,28 @@
       "azimute": 113.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T02:14:00",
+      "sci_name": "Tyto alba",
+      "com_name": "Barn Owl",
+      "name_pt": "Coruja-das-torres",
+      "confidence": 0.6,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T02:19:45",
+      "sci_name": "Tyto alba",
+      "com_name": "Barn Owl",
+      "name_pt": "Coruja-das-torres",
+      "confidence": 0.541,
+      "azimute": 183.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
