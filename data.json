@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T17:15:02.154999",
+  "exported_at": "2026-07-01T17:30:01.780196",
   "hours": 48,
   "total": 415,
   "ok": 412,
   "detections": [
-    {
-      "datetime": "2026-06-30T17:12:12",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.853,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T17:23:24",
       "sci_name": "Conopophaga lineata",
@@ -4571,6 +4560,17 @@
       "name_pt": "Cambacica",
       "confidence": 0.821,
       "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T17:14:42",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.612,
+      "azimute": 94.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
