@@ -5,88 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T07:45:01.217298",
+  "exported_at": "2026-07-01T08:00:01.857621",
   "hours": 48,
-  "total": 275,
-  "ok": 273,
+  "total": 270,
+  "ok": 268,
   "detections": [
-    {
-      "datetime": "2026-06-30T07:43:50",
-      "sci_name": "Leucochloris albicollis",
-      "com_name": "White-throated Hummingbird",
-      "name_pt": "Beija-flor-de-papo-branco",
-      "confidence": 0.851,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:53:23",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.503,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:53:29",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.554,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:53:41",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.526,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:53:41",
-      "sci_name": "Myiopagis viridicata",
-      "com_name": "Greenish Elaenia",
-      "name_pt": "Guaracava-de-crista-alaranjada",
-      "confidence": 0.714,
-      "azimute": 95.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:54:35",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.694,
-      "azimute": 94.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:54:47",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.565,
-      "azimute": 94.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T07:55:29",
       "sci_name": "Lathrotriccus euleri",
@@ -3031,6 +2954,28 @@
       "name_pt": "Cambacica",
       "confidence": 0.51,
       "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:51:24",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.513,
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:54:06",
+      "sci_name": "Myiornis auricularis",
+      "com_name": "Eared Pygmy-Tyrant",
+      "name_pt": "Miúdinho",
+      "confidence": 0.532,
+      "azimute": 112.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
