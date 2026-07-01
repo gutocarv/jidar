@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T07:30:01.951707",
+  "exported_at": "2026-07-01T07:45:01.217298",
   "hours": 48,
-  "total": 274,
-  "ok": 265,
+  "total": 275,
+  "ok": 273,
   "detections": [
     {
       "datetime": "2026-06-30T07:43:50",
@@ -2953,10 +2953,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.97,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:23:51",
@@ -2964,10 +2964,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.919,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:23:54",
@@ -2975,10 +2975,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.55,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:23:57",
@@ -2986,10 +2986,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.889,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:24:00",
@@ -2997,10 +2997,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.968,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:24:09",
@@ -3008,10 +3008,10 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.899,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T07:24:21",
@@ -3019,10 +3019,21 @@
       "com_name": "Streaked Xenops",
       "name_pt": "Bico-virado-carijó",
       "confidence": 0.809,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:37:15",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.51,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
