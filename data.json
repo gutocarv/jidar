@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T14:15:01.751795",
+  "exported_at": "2026-07-01T14:30:01.753062",
   "hours": 48,
-  "total": 330,
-  "ok": 329,
+  "total": 324,
+  "ok": 323,
   "detections": [
-    {
-      "datetime": "2026-06-30T14:13:27",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.82,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:13:30",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.931,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:13:33",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.56,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:13:42",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.761,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:14:18",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.774,
-      "azimute": 293.0,
-      "azimute_std": 0.0,
-      "quadrante": "NO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:19:45",
-      "sci_name": "Thraupis sayaca",
-      "com_name": "Sayaca Tanager",
-      "name_pt": "Sanhaço-cinzento",
-      "confidence": 0.523,
-      "azimute": 359.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T14:26:42",
       "sci_name": "Dysithamnus mentalis",
