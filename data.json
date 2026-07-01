@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T11:45:02.161543",
+  "exported_at": "2026-07-01T12:00:02.120429",
   "hours": 48,
-  "total": 266,
-  "ok": 264,
+  "total": 265,
+  "ok": 263,
   "detections": [
-    {
-      "datetime": "2026-06-30T11:41:54",
-      "sci_name": "Myiozetetes similis",
-      "com_name": "Social Flycatcher",
-      "name_pt": "Bentevizinho-de-penacho-vermelho",
-      "confidence": 0.725,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T12:54:41",
       "sci_name": "Coereba flaveola",
