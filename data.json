@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T17:30:01.780196",
+  "exported_at": "2026-07-01T17:45:02.199206",
   "hours": 48,
-  "total": 415,
-  "ok": 412,
+  "total": 413,
+  "ok": 410,
   "detections": [
-    {
-      "datetime": "2026-06-30T17:23:24",
-      "sci_name": "Conopophaga lineata",
-      "com_name": "Rufous Gnateater",
-      "name_pt": "Chupa-dente",
-      "confidence": 0.504,
-      "azimute": 158.2,
-      "azimute_std": 32.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T17:25:51",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.662,
-      "azimute": 120.3,
-      "azimute_std": 3.3,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T17:26:00",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.716,
-      "azimute": 117.3,
-      "azimute_std": 1.5,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T17:26:21",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.631,
-      "azimute": 118.4,
-      "azimute_std": 1.2,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T17:57:57",
       "sci_name": "Nyctidromus albicollis",
@@ -4573,6 +4529,28 @@
       "azimute": 94.0,
       "azimute_std": 0.0,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T17:21:06",
+      "sci_name": "Sittasomus griseicapillus",
+      "com_name": "Olivaceous Woodcreeper",
+      "name_pt": "Arapaçu-verde",
+      "confidence": 0.622,
+      "azimute": 105.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T17:30:36",
+      "sci_name": "Nycticorax nycticorax",
+      "com_name": "Black-crowned Night-Heron",
+      "name_pt": "Goraz",
+      "confidence": 0.559,
+      "azimute": 358.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
