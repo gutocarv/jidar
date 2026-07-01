@@ -5,110 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T07:00:01.390259",
+  "exported_at": "2026-07-01T07:15:01.319338",
   "hours": 48,
-  "total": 270,
-  "ok": 268,
+  "total": 264,
+  "ok": 262,
   "detections": [
-    {
-      "datetime": "2026-06-30T07:03:02",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.834,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:08",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.63,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:14",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.722,
-      "azimute": 109.3,
-      "azimute_std": 0.9,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:23",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.827,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:26",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.544,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:32",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.809,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:35",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.793,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:03:53",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.615,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T07:04:14",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.581,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T07:14:29",
       "sci_name": "Syndactyla rufosuperciliata",
@@ -2978,6 +2879,39 @@
       "azimute": 175.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:08:42",
+      "sci_name": "Penelope obscura",
+      "com_name": "Dusky-legged Guan",
+      "name_pt": "Jacuaçu",
+      "confidence": 0.7,
+      "azimute": 112.4,
+      "azimute_std": 1.4,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:08:45",
+      "sci_name": "Penelope obscura",
+      "com_name": "Dusky-legged Guan",
+      "name_pt": "Jacuaçu",
+      "confidence": 0.826,
+      "azimute": 109.2,
+      "azimute_std": 1.6,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T07:09:45",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.716,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
       "qualidade": "ok"
     }
   ]
