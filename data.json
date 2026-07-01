@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T12:30:02.168703",
+  "exported_at": "2026-07-01T12:45:01.474976",
   "hours": 48,
-  "total": 286,
-  "ok": 283,
+  "total": 289,
+  "ok": 286,
   "detections": [
     {
       "datetime": "2026-06-30T12:54:41",
@@ -3154,6 +3154,39 @@
       "azimute": 109.9,
       "azimute_std": 7.6,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T12:26:48",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.576,
+      "azimute": 180.0,
+      "azimute_std": 0.6,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T12:26:57",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.642,
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T12:27:42",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.518,
+      "azimute": 153.2,
+      "azimute_std": 3.7,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
