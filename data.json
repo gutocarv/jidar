@@ -5,99 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T14:30:01.753062",
+  "exported_at": "2026-07-01T14:45:02.013167",
   "hours": 48,
-  "total": 324,
-  "ok": 323,
+  "total": 317,
+  "ok": 316,
   "detections": [
-    {
-      "datetime": "2026-06-30T14:26:42",
-      "sci_name": "Dysithamnus mentalis",
-      "com_name": "Plain Antvireo",
-      "name_pt": "Choquinho-lisa",
-      "confidence": 0.522,
-      "azimute": 94.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:15",
-      "sci_name": "Dysithamnus mentalis",
-      "com_name": "Plain Antvireo",
-      "name_pt": "Choquinho-lisa",
-      "confidence": 0.579,
-      "azimute": 92.7,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:24",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.51,
-      "azimute": 94.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:27",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.509,
-      "azimute": 94.7,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:48",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.653,
-      "azimute": 10.5,
-      "azimute_std": 6.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:51",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.795,
-      "azimute": 27.6,
-      "azimute_std": 28.6,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:28:57",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.555,
-      "azimute": 17.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T14:29:54",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.632,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T14:43:33",
       "sci_name": "Columba livia",
@@ -3572,6 +3484,17 @@
       "azimute": 113.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T14:28:15",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.79,
+      "azimute": 162.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
