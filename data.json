@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T18:45:02.051996",
+  "exported_at": "2026-07-01T19:00:01.764884",
   "hours": 48,
-  "total": 372,
-  "ok": 369,
+  "total": 373,
+  "ok": 370,
   "detections": [
     {
       "datetime": "2026-06-30T19:43:21",
@@ -4100,6 +4100,17 @@
       "azimute": 358.0,
       "azimute_std": 0.0,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T18:36:21",
+      "sci_name": "Ciccaba virgata",
+      "com_name": "Mottled Owl",
+      "name_pt": "Coruja-do-mato-neotropical",
+      "confidence": 0.594,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
