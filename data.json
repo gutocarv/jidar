@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T06:45:01.905506",
+  "exported_at": "2026-07-01T07:00:01.390259",
   "hours": 48,
-  "total": 269,
-  "ok": 265,
+  "total": 270,
+  "ok": 268,
   "detections": [
     {
       "datetime": "2026-06-30T07:03:02",
@@ -2953,10 +2953,10 @@
       "com_name": "Variable Antshrike",
       "name_pt": "Choca-da-mata",
       "confidence": 0.515,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-01T06:39:48",
@@ -2964,10 +2964,21 @@
       "com_name": "Variable Antshrike",
       "name_pt": "Choca-da-mata",
       "confidence": 0.515,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T06:50:54",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.712,
+      "azimute": 175.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     }
   ]
 }
