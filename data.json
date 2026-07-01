@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T02:00:01.970423",
+  "exported_at": "2026-07-01T02:15:01.278346",
   "hours": 48,
-  "total": 216,
-  "ok": 214,
+  "total": 215,
+  "ok": 213,
   "detections": [
-    {
-      "datetime": "2026-06-30T02:05:38",
-      "sci_name": "Tyto alba",
-      "com_name": "Barn Owl",
-      "name_pt": "Coruja-das-torres",
-      "confidence": 0.635,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T02:20:53",
       "sci_name": "Tyto alba",
