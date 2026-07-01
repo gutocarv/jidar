@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T13:00:02.154984",
+  "exported_at": "2026-07-01T13:15:01.761999",
   "hours": 48,
-  "total": 295,
-  "ok": 292,
+  "total": 297,
+  "ok": 294,
   "detections": [
-    {
-      "datetime": "2026-06-30T12:54:41",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.867,
-      "azimute": 53.0,
-      "azimute_std": 66.5,
-      "quadrante": "NE",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-06-30T12:55:30",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.515,
-      "azimute": 353.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T13:48:48",
       "sci_name": "Leptotila verreauxi",
@@ -3254,6 +3232,50 @@
       "azimute_std": 0.0,
       "quadrante": "S",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T12:51:42",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.504,
+      "azimute": 94.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T12:59:09",
+      "sci_name": "Columba livia",
+      "com_name": "Rock Pigeon",
+      "name_pt": "Pombo-das-rochas",
+      "confidence": 0.756,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:08:21",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.849,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:08:33",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.94,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
