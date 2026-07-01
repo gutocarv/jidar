@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T01:00:02.199333",
+  "exported_at": "2026-07-01T01:15:02.128477",
   "hours": 48,
-  "total": 217,
-  "ok": 215,
+  "total": 216,
+  "ok": 214,
   "detections": [
-    {
-      "datetime": "2026-06-30T01:00:38",
-      "sci_name": "Nyctiphrynus ocellatus",
-      "com_name": "Ocellated Poorwill",
-      "name_pt": "Bacurau-ocelado",
-      "confidence": 0.596,
-      "azimute": 1.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T02:05:38",
       "sci_name": "Tyto alba",
