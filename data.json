@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T09:30:02.181798",
+  "exported_at": "2026-07-01T09:45:01.544753",
   "hours": 48,
   "total": 278,
   "ok": 276,
   "detections": [
-    {
-      "datetime": "2026-06-30T09:25:26",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.674,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T09:42:53",
       "sci_name": "Coereba flaveola",
@@ -3066,6 +3055,17 @@
       "azimute": 56.0,
       "azimute_std": 0.0,
       "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:32:45",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.531,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
