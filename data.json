@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T09:45:01.544753",
+  "exported_at": "2026-07-01T10:00:01.585863",
   "hours": 48,
-  "total": 278,
-  "ok": 276,
+  "total": 284,
+  "ok": 281,
   "detections": [
-    {
-      "datetime": "2026-06-30T09:42:53",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.665,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T10:24:27",
       "sci_name": "Dryobates spilogaster",
@@ -3067,6 +3056,83 @@
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:39:54",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.575,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:40:42",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.582,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:43:09",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.544,
+      "azimute": 178.3,
+      "azimute_std": 0.7,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:43:33",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.602,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:47:45",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.687,
+      "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:48:03",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.86,
+      "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:54:24",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.601,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
