@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T16:30:01.666337",
+  "exported_at": "2026-07-01T16:45:02.069955",
   "hours": 48,
-  "total": 393,
-  "ok": 390,
+  "total": 399,
+  "ok": 396,
   "detections": [
-    {
-      "datetime": "2026-06-30T16:20:57",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.641,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T16:49:06",
       "sci_name": "Coereba flaveola",
@@ -4329,6 +4318,83 @@
       "name_pt": "Juriti-pupu",
       "confidence": 0.617,
       "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:20:51",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.613,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:23:21",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.621,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:23:39",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.594,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:23:45",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.731,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:24:15",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.59,
+      "azimute": 3.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:24:39",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.565,
+      "azimute": 17.3,
+      "azimute_std": 0.5,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T16:27:30",
+      "sci_name": "Dryocopus lineatus",
+      "com_name": "Lineated Woodpecker",
+      "name_pt": "Pica-pau-de-bandas-brancas",
+      "confidence": 0.802,
+      "azimute": 110.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
