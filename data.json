@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T13:45:01.572429",
+  "exported_at": "2026-07-01T14:00:01.879796",
   "hours": 48,
-  "total": 322,
-  "ok": 320,
+  "total": 328,
+  "ok": 327,
   "detections": [
-    {
-      "datetime": "2026-06-30T13:48:48",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.898,
-      "azimute": 274.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T13:49:15",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.775,
-      "azimute": 284.5,
-      "azimute_std": 37.6,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T13:49:27",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.558,
-      "azimute": 250.8,
-      "azimute_std": 98.4,
-      "quadrante": "O",
-      "qualidade": "azimute_disperso"
-    },
     {
       "datetime": "2026-06-30T14:13:27",
       "sci_name": "Columbina talpacoti",
@@ -3549,6 +3516,105 @@
       "confidence": 0.567,
       "azimute": 110.0,
       "azimute_std": 1.4,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:00",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.677,
+      "azimute": 115.7,
+      "azimute_std": 0.5,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:09",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.61,
+      "azimute": 113.8,
+      "azimute_std": 0.7,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:15",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.646,
+      "azimute": 114.8,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:30",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.504,
+      "azimute": 115.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:33",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.852,
+      "azimute": 114.8,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:42:39",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.941,
+      "azimute": 113.8,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:43:09",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.733,
+      "azimute": 111.8,
+      "azimute_std": 0.4,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:43:18",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.927,
+      "azimute": 111.8,
+      "azimute_std": 0.4,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T13:43:30",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.719,
+      "azimute": 111.5,
+      "azimute_std": 0.8,
       "quadrante": "L",
       "qualidade": "ok"
     }
