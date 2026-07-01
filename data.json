@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T10:15:02.149398",
+  "exported_at": "2026-07-01T10:30:01.456842",
   "hours": 48,
-  "total": 289,
-  "ok": 287,
+  "total": 288,
+  "ok": 286,
   "detections": [
-    {
-      "datetime": "2026-06-30T10:24:27",
-      "sci_name": "Dryobates spilogaster",
-      "com_name": "White-spotted Woodpecker",
-      "name_pt": "Picapauzinho-verde-carijó",
-      "confidence": 0.547,
-      "azimute": 181.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-30T10:39:11",
       "sci_name": "Coereba flaveola",
