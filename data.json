@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T10:00:01.585863",
+  "exported_at": "2026-07-01T10:15:02.149398",
   "hours": 48,
-  "total": 284,
-  "ok": 281,
+  "total": 289,
+  "ok": 287,
   "detections": [
     {
       "datetime": "2026-06-30T10:24:27",
@@ -3129,10 +3129,65 @@
       "com_name": "Bananaquit",
       "name_pt": "Cambacica",
       "confidence": 0.601,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:55:39",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.788,
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:55:48",
+      "sci_name": "Camptostoma obsoletum",
+      "com_name": "Southern Beardless-Tyrannulet",
+      "name_pt": "Risadinha",
+      "confidence": 0.697,
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:56:09",
+      "sci_name": "Camptostoma obsoletum",
+      "com_name": "Southern Beardless-Tyrannulet",
+      "name_pt": "Risadinha",
+      "confidence": 0.768,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:57:18",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.61,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-01T09:57:27",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.599,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
