@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-06-30T21:00:01.218362",
+  "exported_at": "2026-06-30T21:15:01.697407",
   "hours": 48,
-  "total": 218,
-  "ok": 216,
+  "total": 219,
+  "ok": 217,
   "detections": [
-    {
-      "datetime": "2026-06-29T20:56:17",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.631,
-      "azimute": 116.8,
-      "azimute_std": 0.4,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-06-29T23:34:11",
       "sci_name": "Pyroderus scutatus",
@@ -2404,6 +2393,28 @@
       "name_pt": "Corujinha-do-mato",
       "confidence": 0.503,
       "azimute": 114.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T21:05:15",
+      "sci_name": "Megascops choliba",
+      "com_name": "Tropical Screech-Owl",
+      "name_pt": "Corujinha-do-mato",
+      "confidence": 0.507,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-06-30T21:05:42",
+      "sci_name": "Megascops choliba",
+      "com_name": "Tropical Screech-Owl",
+      "name_pt": "Corujinha-do-mato",
+      "confidence": 0.506,
+      "azimute": 113.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
