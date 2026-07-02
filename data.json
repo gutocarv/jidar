@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T08:00:02.184898",
+  "exported_at": "2026-07-02T08:15:01.451237",
   "hours": 48,
-  "total": 487,
-  "ok": 483,
+  "total": 486,
+  "ok": 482,
   "detections": [
-    {
-      "datetime": "2026-07-01T07:51:24",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.513,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:54:06",
-      "sci_name": "Myiornis auricularis",
-      "com_name": "Eared Pygmy-Tyrant",
-      "name_pt": "Miúdinho",
-      "confidence": 0.532,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:59:12",
-      "sci_name": "Phyllomyias virescens",
-      "com_name": "Greenish Tyrannulet",
-      "name_pt": "Piolhinho-esverdeado",
-      "confidence": 0.7,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T08:05:03",
       "sci_name": "Lathrotriccus euleri",
@@ -5365,6 +5332,28 @@
       "azimute": 120.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:55:57",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.539,
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:56:09",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.59,
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
