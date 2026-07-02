@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-01T21:15:01.972697",
+  "exported_at": "2026-07-01T21:30:01.575874",
   "hours": 48,
-  "total": 372,
-  "ok": 369,
+  "total": 370,
+  "ok": 367,
   "detections": [
-    {
-      "datetime": "2026-06-30T21:05:15",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.507,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-06-30T21:05:42",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.506,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T02:14:00",
       "sci_name": "Tyto alba",
