@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T11:00:01.618867",
+  "exported_at": "2026-07-02T11:15:02.199177",
   "hours": 48,
-  "total": 512,
-  "ok": 503,
+  "total": 517,
+  "ok": 508,
   "detections": [
     {
       "datetime": "2026-07-01T11:19:36",
@@ -5640,6 +5640,61 @@
       "azimute": 172.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:55:25",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.548,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:56:04",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.582,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:57:46",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.786,
+      "azimute": 112.2,
+      "azimute_std": 0.4,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:57:49",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.691,
+      "azimute": 101.3,
+      "azimute_std": 41.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:58:46",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.518,
+      "azimute": 356.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
