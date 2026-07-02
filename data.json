@@ -5,143 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T07:30:02.183461",
+  "exported_at": "2026-07-02T07:45:01.802117",
   "hours": 48,
-  "total": 455,
-  "ok": 451,
+  "total": 458,
+  "ok": 450,
   "detections": [
-    {
-      "datetime": "2026-07-01T07:21:21",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.738,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:21:39",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.555,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:27",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.538,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:30",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.787,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:33",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.508,
-      "azimute": 108.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:45",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.97,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:51",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.919,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:54",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.55,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:23:57",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.889,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:24:00",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.968,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:24:09",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.899,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T07:24:21",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.809,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T07:37:15",
       "sci_name": "Coereba flaveola",
@@ -5014,6 +4882,171 @@
       "azimute_std": 38.0,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:16:07",
+      "sci_name": "Myiothlypis flaveola",
+      "com_name": "Flavescent Warbler",
+      "name_pt": "Canário-do-mato",
+      "confidence": 0.789,
+      "azimute": 4.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:16:24",
+      "sci_name": "Myiothlypis flaveola",
+      "com_name": "Flavescent Warbler",
+      "name_pt": "Canário-do-mato",
+      "confidence": 0.709,
+      "azimute": 4.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:21:58",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.511,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:22:12",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.634,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:26:12",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.654,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:26:15",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.545,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:26:27",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.583,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:26:36",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.693,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:27:01",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.545,
+      "azimute": 121.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:27:09",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.546,
+      "azimute": 121.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:27:37",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.586,
+      "azimute": 121.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T07:29:25",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.814,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
+    },
+    {
+      "datetime": "2026-07-02T07:29:28",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.743,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
+    },
+    {
+      "datetime": "2026-07-02T07:29:34",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.664,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
+    },
+    {
+      "datetime": "2026-07-02T07:29:46",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.845,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
