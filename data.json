@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T04:15:01.667830",
+  "exported_at": "2026-07-02T04:30:01.795035",
   "hours": 48,
-  "total": 398,
-  "ok": 395,
+  "total": 400,
+  "ok": 397,
   "detections": [
     {
       "datetime": "2026-07-01T04:38:00",
@@ -4384,6 +4384,28 @@
       "name_pt": "Bacurau-ocelado",
       "confidence": 0.936,
       "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T04:08:18",
+      "sci_name": "Nycticorax nycticorax",
+      "com_name": "Black-crowned Night-Heron",
+      "name_pt": "Goraz",
+      "confidence": 0.704,
+      "azimute": 120.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T04:08:25",
+      "sci_name": "Nycticorax nycticorax",
+      "com_name": "Black-crowned Night-Heron",
+      "name_pt": "Goraz",
+      "confidence": 0.878,
+      "azimute": 120.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
