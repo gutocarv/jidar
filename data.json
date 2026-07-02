@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T17:45:07.103598",
+  "exported_at": "2026-07-02T18:00:03.693275",
   "hours": 48,
-  "total": 650,
-  "ok": 640,
+  "total": 649,
+  "ok": 639,
   "detections": [
-    {
-      "datetime": "2026-07-01T17:30:36",
-      "sci_name": "Nycticorax nycticorax",
-      "com_name": "Black-crowned Night-Heron",
-      "name_pt": "Goraz",
-      "confidence": 0.559,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T18:36:21",
       "sci_name": "Ciccaba virgata",
