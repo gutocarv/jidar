@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T00:00:01.288601",
+  "exported_at": "2026-07-02T00:15:01.541832",
   "hours": 48,
   "total": 371,
-  "ok": 367,
+  "ok": 368,
   "detections": [
     {
       "datetime": "2026-07-01T02:14:00",
@@ -4086,10 +4086,10 @@
       "com_name": "Tropical Screech-Owl",
       "name_pt": "Corujinha-do-mato",
       "confidence": 0.546,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 121.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
     }
   ]
 }
