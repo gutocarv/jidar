@@ -5,143 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T12:30:01.548341",
+  "exported_at": "2026-07-02T12:45:01.357405",
   "hours": 48,
-  "total": 523,
-  "ok": 515,
+  "total": 512,
+  "ok": 504,
   "detections": [
-    {
-      "datetime": "2026-07-01T12:15:42",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.536,
-      "azimute": 96.6,
-      "azimute_std": 8.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:18:30",
-      "sci_name": "Pygochelidon cyanoleuca",
-      "com_name": "Blue-and-white Swallow",
-      "name_pt": "Andorinha-doméstica-pequena",
-      "confidence": 0.647,
-      "azimute": 108.0,
-      "azimute_std": 0.6,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:18:30",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.678,
-      "azimute": 108.0,
-      "azimute_std": 0.6,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:19:09",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.794,
-      "azimute": 98.5,
-      "azimute_std": 9.7,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:19:24",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.677,
-      "azimute": 110.0,
-      "azimute_std": 1.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:19:36",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.732,
-      "azimute": 109.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:19:39",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.653,
-      "azimute": 109.7,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:19:45",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.562,
-      "azimute": 111.7,
-      "azimute_std": 1.2,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:20:57",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.52,
-      "azimute": 109.9,
-      "azimute_std": 7.6,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:26:48",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.576,
-      "azimute": 180.0,
-      "azimute_std": 0.6,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:26:57",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.642,
-      "azimute": 181.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T12:27:42",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.518,
-      "azimute": 153.2,
-      "azimute_std": 3.7,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T12:42:36",
       "sci_name": "Coereba flaveola",
@@ -5761,6 +5629,17 @@
       "azimute": 109.0,
       "azimute_std": 0.0,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T12:28:10",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.549,
+      "azimute": 359.7,
+      "azimute_std": 0.5,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
