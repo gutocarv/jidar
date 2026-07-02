@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T09:00:02.043764",
+  "exported_at": "2026-07-02T09:15:02.149847",
   "hours": 48,
-  "total": 466,
-  "ok": 460,
+  "total": 472,
+  "ok": 466,
   "detections": [
-    {
-      "datetime": "2026-07-01T08:56:24",
-      "sci_name": "Myiothlypis flaveola",
-      "com_name": "Flavescent Warbler",
-      "name_pt": "Canário-do-mato",
-      "confidence": 0.805,
-      "azimute": 56.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T09:02:36",
-      "sci_name": "Pyriglena leucoptera",
-      "com_name": "White-shouldered Fire-eye",
-      "name_pt": "Papa-taoca-do-sul",
-      "confidence": 0.641,
-      "azimute": 56.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T09:02:48",
-      "sci_name": "Pyriglena leucoptera",
-      "com_name": "White-shouldered Fire-eye",
-      "name_pt": "Papa-taoca-do-sul",
-      "confidence": 0.703,
-      "azimute": 56.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T09:32:45",
       "sci_name": "Tolmomyias sulphurescens",
@@ -5133,6 +5100,105 @@
       "confidence": 0.911,
       "azimute": 157.0,
       "azimute_std": 44.3,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:49:25",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.874,
+      "azimute": 107.3,
+      "azimute_std": 32.5,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:49:37",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.749,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:49:49",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.985,
+      "azimute": 109.5,
+      "azimute_std": 1.5,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:49:55",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.551,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:52:19",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.758,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:52:22",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.647,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:53:16",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.534,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:57:43",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.741,
+      "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:57:58",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.554,
+      "azimute": 133.1,
+      "azimute_std": 32.2,
       "quadrante": "SE",
       "qualidade": "ok"
     }
