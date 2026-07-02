@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T18:45:09.233369",
+  "exported_at": "2026-07-02T19:00:09.193692",
   "hours": 48,
   "total": 649,
   "ok": 639,
   "detections": [
-    {
-      "datetime": "2026-07-01T18:36:21",
-      "sci_name": "Ciccaba virgata",
-      "com_name": "Mottled Owl",
-      "name_pt": "Coruja-do-mato-neotropical",
-      "confidence": 0.594,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T20:10:12",
       "sci_name": "Megascops choliba",
@@ -7147,6 +7136,17 @@
       "azimute": 165.4,
       "azimute_std": 21.1,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T18:31:40",
+      "sci_name": "Ciccaba virgata",
+      "com_name": "Mottled Owl",
+      "name_pt": "Coruja-do-mato-neotropical",
+      "confidence": 0.554,
+      "azimute": 115.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
