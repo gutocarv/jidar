@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T10:45:01.875264",
+  "exported_at": "2026-07-02T11:00:01.618867",
   "hours": 48,
-  "total": 510,
-  "ok": 501,
+  "total": 512,
+  "ok": 503,
   "detections": [
     {
       "datetime": "2026-07-01T11:19:36",
@@ -5616,6 +5616,28 @@
       "name_pt": "Tiê-preto",
       "confidence": 0.53,
       "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:39:55",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.563,
+      "azimute": 170.4,
+      "azimute_std": 0.8,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T10:40:16",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.643,
+      "azimute": 172.0,
       "azimute_std": 0.0,
       "quadrante": "S",
       "qualidade": "ok"
