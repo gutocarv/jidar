@@ -5,154 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T08:30:02.989367",
+  "exported_at": "2026-07-02T08:45:01.520143",
   "hours": 48,
-  "total": 470,
-  "ok": 466,
+  "total": 458,
+  "ok": 453,
   "detections": [
-    {
-      "datetime": "2026-07-01T08:15:39",
-      "sci_name": "Myiothlypis flaveola",
-      "com_name": "Flavescent Warbler",
-      "name_pt": "Canário-do-mato",
-      "confidence": 0.522,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:16:48",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.8,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:16:54",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.828,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:16:57",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.681,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:29:51",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.575,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:30:03",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.713,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:30:24",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.781,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:30:42",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.853,
-      "azimute": 108.7,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:31:03",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.652,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:31:21",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.828,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:33:30",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.659,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:33:48",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.766,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T08:34:57",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.598,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T08:35:36",
       "sci_name": "Picumnus temminckii",
@@ -5179,6 +5036,17 @@
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T08:34:22",
+      "sci_name": "Camptostoma obsoletum",
+      "com_name": "Southern Beardless-Tyrannulet",
+      "name_pt": "Risadinha",
+      "confidence": 0.715,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
