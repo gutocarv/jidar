@@ -5,99 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T12:00:04.313892",
+  "exported_at": "2026-07-02T12:15:01.869600",
   "hours": 48,
-  "total": 534,
-  "ok": 521,
+  "total": 527,
+  "ok": 519,
   "detections": [
-    {
-      "datetime": "2026-07-01T11:56:09",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.84,
-      "azimute": 291.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:56:12",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.794,
-      "azimute": 291.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:57:18",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.701,
-      "azimute": 179.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:57:21",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.583,
-      "azimute": 179.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:58:21",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.535,
-      "azimute": 234.0,
-      "azimute_std": 63.2,
-      "quadrante": "SO",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-07-01T11:58:24",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.844,
-      "azimute": 291.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:58:27",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.721,
-      "azimute": 291.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T11:59:03",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.773,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T12:10:09",
       "sci_name": "Xenops rutilans",
@@ -5835,8 +5747,8 @@
       "com_name": "White-tipped Dove",
       "name_pt": "Juriti-pupu",
       "confidence": 0.724,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
+      "azimute": 108.2,
+      "azimute_std": 0.4,
       "quadrante": "L",
       "qualidade": "ok"
     },
@@ -5846,10 +5758,10 @@
       "com_name": "White-tipped Dove",
       "name_pt": "Juriti-pupu",
       "confidence": 0.644,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-02T11:43:49",
@@ -5857,10 +5769,10 @@
       "com_name": "Gray-fronted Dove",
       "name_pt": "Juriti-gemedeira",
       "confidence": 0.598,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-02T11:44:25",
@@ -5868,10 +5780,10 @@
       "com_name": "White-tipped Dove",
       "name_pt": "Juriti-pupu",
       "confidence": 0.74,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 359.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-02T11:44:34",
@@ -5879,10 +5791,21 @@
       "com_name": "White-tipped Dove",
       "name_pt": "Juriti-pupu",
       "confidence": 0.512,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 359.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T11:56:40",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.506,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
