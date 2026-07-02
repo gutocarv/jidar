@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T14:15:02.674221",
+  "exported_at": "2026-07-02T14:30:01.792197",
   "hours": 48,
-  "total": 624,
-  "ok": 616,
+  "total": 636,
+  "ok": 628,
   "detections": [
     {
       "datetime": "2026-07-01T14:28:15",
@@ -6872,6 +6872,138 @@
       "azimute": 108.0,
       "azimute_std": 0.0,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:00:13",
+      "sci_name": "Pygochelidon cyanoleuca",
+      "com_name": "Blue-and-white Swallow",
+      "name_pt": "Andorinha-doméstica-pequena",
+      "confidence": 0.511,
+      "azimute": 84.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:00:13",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.629,
+      "azimute": 84.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:00:22",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.617,
+      "azimute": 84.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:03:55",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.698,
+      "azimute": 2.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:04:49",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.73,
+      "azimute": 2.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:05:34",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.531,
+      "azimute": 2.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:06:43",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.618,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:06:46",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.895,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:07:04",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.722,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:07:34",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.663,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:07:40",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.734,
+      "azimute": 0.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:07:58",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.661,
+      "azimute": 0.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
