@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T15:00:12.345956",
+  "exported_at": "2026-07-02T15:15:03.181637",
   "hours": 48,
-  "total": 721,
-  "ok": 712,
+  "total": 736,
+  "ok": 727,
   "detections": [
     {
       "datetime": "2026-07-01T15:01:06",
@@ -7938,6 +7938,171 @@
       "confidence": 0.779,
       "azimute": 169.2,
       "azimute_std": 31.5,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:41:49",
+      "sci_name": "Ramphocaenus melanurus",
+      "com_name": "Long-billed Gnatwren",
+      "name_pt": "Chirito",
+      "confidence": 0.654,
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:47:25",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.652,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:47:40",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.695,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:47:43",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.857,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:48:13",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.713,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:48:16",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.579,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:49:13",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.524,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:49:46",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.518,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:49:49",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.749,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:49:52",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.68,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:49:52",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.733,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:50:10",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.798,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:50:22",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.702,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:51:07",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.772,
+      "azimute": 156.5,
+      "azimute_std": 2.9,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T14:51:16",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.608,
+      "azimute": 166.7,
+      "azimute_std": 4.9,
       "quadrante": "S",
       "qualidade": "ok"
     }
