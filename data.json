@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T14:00:01.392414",
+  "exported_at": "2026-07-02T14:15:02.674221",
   "hours": 48,
-  "total": 621,
-  "ok": 613,
+  "total": 624,
+  "ok": 616,
   "detections": [
-    {
-      "datetime": "2026-07-01T13:55:39",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.538,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T13:55:54",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.741,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T14:28:15",
       "sci_name": "Tachyphonus coronatus",
@@ -6838,6 +6816,61 @@
       "confidence": 0.79,
       "azimute": 112.0,
       "azimute_std": 0.6,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T13:49:01",
+      "sci_name": "Xiphorhynchus fuscus",
+      "com_name": "Lesser Woodcreeper",
+      "name_pt": "Arapaçu-rajado",
+      "confidence": 0.54,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T13:50:10",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.561,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T13:51:46",
+      "sci_name": "Xiphorhynchus fuscus",
+      "com_name": "Lesser Woodcreeper",
+      "name_pt": "Arapaçu-rajado",
+      "confidence": 0.549,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T13:52:01",
+      "sci_name": "Xiphorhynchus fuscus",
+      "com_name": "Lesser Woodcreeper",
+      "name_pt": "Arapaçu-rajado",
+      "confidence": 0.604,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T13:52:37",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.73,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
     }
