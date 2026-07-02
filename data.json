@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T09:45:02.481612",
+  "exported_at": "2026-07-02T10:00:04.113590",
   "hours": 48,
-  "total": 473,
-  "ok": 467,
+  "total": 469,
+  "ok": 463,
   "detections": [
-    {
-      "datetime": "2026-07-01T09:39:54",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.575,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T09:40:42",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.582,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T09:43:09",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.544,
-      "azimute": 178.3,
-      "azimute_std": 0.7,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T09:43:33",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.602,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T09:47:45",
       "sci_name": "Myiothlypis leucoblephara",
