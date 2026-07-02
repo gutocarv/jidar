@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T16:00:09.179102",
+  "exported_at": "2026-07-02T16:15:12.285062",
   "hours": 48,
-  "total": 700,
-  "ok": 688,
+  "total": 703,
+  "ok": 694,
   "detections": [
-    {
-      "datetime": "2026-07-01T15:41:45",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.591,
-      "azimute": 14.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T15:42:18",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.695,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T15:43:06",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.536,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T15:43:09",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.871,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T15:43:18",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.743,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-01T15:43:24",
-      "sci_name": "Turdus leucomelas",
-      "com_name": "Pale-breasted Thrush",
-      "name_pt": "Sabiá-das-barreiras",
-      "confidence": 0.618,
-      "azimute": 5.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T15:56:39",
       "sci_name": "Coereba flaveola",
@@ -7683,10 +7617,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.654,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 102.7,
+      "azimute_std": 4.7,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-02T15:39:31",
@@ -7694,10 +7628,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.582,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 97.7,
+      "azimute_std": 3.7,
+      "quadrante": "L",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-02T15:39:34",
@@ -7705,10 +7639,109 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.906,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 96.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:40:07",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.606,
+      "azimute": 96.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:40:43",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.624,
+      "azimute": 2.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:40:52",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.535,
+      "azimute": 12.4,
+      "azimute_std": 33.7,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:41:01",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.516,
+      "azimute": 0.7,
+      "azimute_std": 0.7,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:41:16",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.773,
+      "azimute": 359.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:41:25",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.58,
+      "azimute": 357.6,
+      "azimute_std": 0.8,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:41:37",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.585,
+      "azimute": 357.5,
+      "azimute_std": 0.5,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:42:10",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.609,
+      "azimute": 358.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T15:44:07",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.541,
+      "azimute": 3.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
     }
   ]
 }
