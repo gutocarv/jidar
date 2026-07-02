@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T06:00:01.944539",
+  "exported_at": "2026-07-02T06:15:01.845233",
   "hours": 48,
-  "total": 399,
-  "ok": 396,
+  "total": 398,
+  "ok": 395,
   "detections": [
-    {
-      "datetime": "2026-07-01T06:02:57",
-      "sci_name": "Dromococcyx pavoninus",
-      "com_name": "Pavonine Cuckoo",
-      "name_pt": "Peixe-frito-pavonino",
-      "confidence": 0.601,
-      "azimute": 147.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-01T06:26:27",
       "sci_name": "Thamnophilus caerulescens",
