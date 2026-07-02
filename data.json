@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T11:15:02.199177",
+  "exported_at": "2026-07-02T11:30:02.123381",
   "hours": 48,
-  "total": 517,
-  "ok": 508,
+  "total": 521,
+  "ok": 512,
   "detections": [
     {
       "datetime": "2026-07-01T11:19:36",
@@ -5695,6 +5695,50 @@
       "azimute": 356.0,
       "azimute_std": 0.0,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T11:06:07",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.564,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T11:11:22",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.887,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T11:11:34",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.662,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T11:12:01",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.733,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
       "qualidade": "ok"
     }
   ]
