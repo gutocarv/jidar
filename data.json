@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T20:45:01.755320",
+  "exported_at": "2026-07-02T21:00:03.097446",
   "hours": 48,
-  "total": 649,
-  "ok": 639,
+  "total": 650,
+  "ok": 640,
   "detections": [
     {
       "datetime": "2026-07-01T23:49:42",
@@ -7147,6 +7147,17 @@
       "azimute": 261.0,
       "azimute_std": 0.0,
       "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T20:33:31",
+      "sci_name": "Strix hylophila",
+      "com_name": "Rusty-barred Owl",
+      "name_pt": "Coruja-listrada",
+      "confidence": 0.519,
+      "azimute": 121.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
