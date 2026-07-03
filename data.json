@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T09:45:07.453518",
+  "exported_at": "2026-07-03T10:00:10.337241",
   "hours": 48,
-  "total": 569,
-  "ok": 559,
+  "total": 571,
+  "ok": 561,
   "detections": [
     {
       "datetime": "2026-07-02T09:47:31",
@@ -6267,6 +6267,28 @@
       "azimute": 109.0,
       "azimute_std": 0.0,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T09:25:13",
+      "sci_name": "Turdus albicollis",
+      "com_name": "White-necked Thrush",
+      "name_pt": "Sabiá-de-coleira",
+      "confidence": 0.584,
+      "azimute": 1.7,
+      "azimute_std": 0.5,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T09:26:31",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.662,
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
       "qualidade": "ok"
     }
   ]
