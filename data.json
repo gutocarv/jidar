@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T18:45:01.625254",
+  "exported_at": "2026-07-03T19:00:01.809659",
   "hours": 48,
-  "total": 416,
-  "ok": 408,
+  "total": 415,
+  "ok": 407,
   "detections": [
-    {
-      "datetime": "2026-07-02T18:31:40",
-      "sci_name": "Ciccaba virgata",
-      "com_name": "Mottled Owl",
-      "name_pt": "Coruja-do-mato-neotropical",
-      "confidence": 0.554,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T18:39:49",
-      "sci_name": "Strix hylophila",
-      "com_name": "Rusty-barred Owl",
-      "name_pt": "Coruja-listrada",
-      "confidence": 0.698,
-      "azimute": 261.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T20:33:31",
       "sci_name": "Strix hylophila",
@@ -4584,6 +4562,17 @@
       "azimute": 113.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T18:31:10",
+      "sci_name": "Cryptopezus nattereri",
+      "com_name": "Speckle-breasted Antpitta",
+      "name_pt": "Pinto-do-mato",
+      "confidence": 0.709,
+      "azimute": 173.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
