@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T17:45:01.459984",
+  "exported_at": "2026-07-03T18:00:02.958294",
   "hours": 48,
-  "total": 415,
-  "ok": 407,
+  "total": 416,
+  "ok": 408,
   "detections": [
     {
       "datetime": "2026-07-02T18:31:40",
@@ -4573,6 +4573,17 @@
       "azimute": 176.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T17:31:28",
+      "sci_name": "Turdus albicollis",
+      "com_name": "White-necked Thrush",
+      "name_pt": "Sabiá-de-coleira",
+      "confidence": 0.792,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
