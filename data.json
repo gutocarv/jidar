@@ -5,66 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T06:45:10.877406",
+  "exported_at": "2026-07-03T07:00:09.834027",
   "hours": 48,
-  "total": 621,
-  "ok": 611,
+  "total": 617,
+  "ok": 607,
   "detections": [
-    {
-      "datetime": "2026-07-02T06:28:37",
-      "sci_name": "Crypturellus tataupa",
-      "com_name": "Tataupa Tinamou",
-      "name_pt": "Inhambu-chintã",
-      "confidence": 0.511,
-      "azimute": 118.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T06:34:25",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.57,
-      "azimute": 19.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T06:34:40",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.588,
-      "azimute": 119.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T06:34:43",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.578,
-      "azimute": 118.7,
-      "azimute_std": 0.5,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T06:35:01",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.567,
-      "azimute": 118.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T06:35:39",
       "sci_name": "Todirostrum poliocephalum",
@@ -6838,6 +6783,17 @@
       "confidence": 0.675,
       "azimute": 141.7,
       "azimute_std": 9.7,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T06:27:46",
+      "sci_name": "Patagioenas cayennensis",
+      "com_name": "Pale-vented Pigeon",
+      "name_pt": "Pomba-galega",
+      "confidence": 0.574,
+      "azimute": 125.0,
+      "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
     }
