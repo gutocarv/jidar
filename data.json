@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T12:15:04.901618",
+  "exported_at": "2026-07-03T12:30:02.167573",
   "hours": 48,
-  "total": 579,
-  "ok": 567,
+  "total": 578,
+  "ok": 566,
   "detections": [
-    {
-      "datetime": "2026-07-02T11:56:40",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.506,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T12:28:10",
       "sci_name": "Leptotila verreauxi",
