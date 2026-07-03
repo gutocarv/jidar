@@ -5,110 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T13:45:01.645996",
+  "exported_at": "2026-07-03T14:00:07.838681",
   "hours": 48,
-  "total": 499,
-  "ok": 487,
+  "total": 493,
+  "ok": 481,
   "detections": [
-    {
-      "datetime": "2026-07-02T13:25:16",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.699,
-      "azimute": 13.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:25:40",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.558,
-      "azimute": 11.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:26:43",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.838,
-      "azimute": 9.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:28:34",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.517,
-      "azimute": 12.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:29:19",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.777,
-      "azimute": 12.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:30:07",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.563,
-      "azimute": 10.5,
-      "azimute_std": 3.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:32:01",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.678,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:33:04",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.75,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T13:33:25",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.729,
-      "azimute": 115.2,
-      "azimute_std": 0.9,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T13:40:31",
       "sci_name": "Hypoedaleus guttatus",
@@ -5495,6 +5396,39 @@
       "name_pt": "Pomba-amargosa",
       "confidence": 0.747,
       "azimute": 352.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T13:27:04",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.726,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T13:27:13",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.619,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T13:31:55",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.741,
+      "azimute": 358.0,
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
