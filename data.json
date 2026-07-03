@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T01:45:07.894831",
+  "exported_at": "2026-07-03T02:00:02.097634",
   "hours": 48,
   "total": 651,
-  "ok": 641,
+  "ok": 640,
   "detections": [
-    {
-      "datetime": "2026-07-02T01:26:06",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.591,
-      "azimute": 198.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T01:26:09",
-      "sci_name": "Megascops choliba",
-      "com_name": "Tropical Screech-Owl",
-      "name_pt": "Corujinha-do-mato",
-      "confidence": 0.608,
-      "azimute": 198.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T02:08:09",
       "sci_name": "Megascops choliba",
@@ -7170,6 +7148,28 @@
       "azimute_std": 0.0,
       "quadrante": "NE",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T01:34:16",
+      "sci_name": "Ciccaba virgata",
+      "com_name": "Mottled Owl",
+      "name_pt": "Coruja-do-mato-neotropical",
+      "confidence": 0.578,
+      "azimute": 20.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T01:34:37",
+      "sci_name": "Ciccaba virgata",
+      "com_name": "Mottled Owl",
+      "name_pt": "Coruja-do-mato-neotropical",
+      "confidence": 0.509,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
