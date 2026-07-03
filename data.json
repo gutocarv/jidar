@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T17:30:03.444956",
+  "exported_at": "2026-07-03T17:45:01.459984",
   "hours": 48,
-  "total": 412,
-  "ok": 404,
+  "total": 415,
+  "ok": 407,
   "detections": [
     {
       "datetime": "2026-07-02T18:31:40",
@@ -4538,6 +4538,39 @@
       "name_pt": "Papa-taoca-do-sul",
       "confidence": 0.813,
       "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T17:16:04",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.69,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T17:16:25",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.662,
+      "azimute": 176.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T17:16:34",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.76,
+      "azimute": 176.0,
       "azimute_std": 0.0,
       "quadrante": "S",
       "qualidade": "ok"
