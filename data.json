@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T11:00:08.594085",
+  "exported_at": "2026-07-03T11:15:06.634902",
   "hours": 48,
-  "total": 585,
-  "ok": 573,
+  "total": 596,
+  "ok": 584,
   "detections": [
-    {
-      "datetime": "2026-07-02T10:40:16",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.643,
-      "azimute": 172.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T10:55:25",
       "sci_name": "Lathrotriccus euleri",
@@ -6443,6 +6432,138 @@
       "azimute": 162.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:44:55",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.529,
+      "azimute": 119.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:45:16",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.586,
+      "azimute": 118.7,
+      "azimute_std": 0.9,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:46:13",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.607,
+      "azimute": 120.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:46:22",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.622,
+      "azimute": 120.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:47:10",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.675,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:47:16",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.577,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:47:28",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.658,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:48:04",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.623,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:49:43",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.551,
+      "azimute": 20.2,
+      "azimute_std": 8.6,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:50:49",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.636,
+      "azimute": 326.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:52:28",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.605,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:52:58",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.561,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
