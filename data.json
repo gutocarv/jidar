@@ -5,143 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T14:15:03.884349",
+  "exported_at": "2026-07-03T14:30:09.846518",
   "hours": 48,
-  "total": 502,
-  "ok": 490,
+  "total": 493,
+  "ok": 481,
   "detections": [
-    {
-      "datetime": "2026-07-02T14:00:13",
-      "sci_name": "Pygochelidon cyanoleuca",
-      "com_name": "Blue-and-white Swallow",
-      "name_pt": "Andorinha-doméstica-pequena",
-      "confidence": 0.511,
-      "azimute": 84.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:00:13",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.629,
-      "azimute": 84.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:00:22",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.617,
-      "azimute": 84.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:03:55",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.698,
-      "azimute": 2.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:04:49",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.73,
-      "azimute": 2.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:05:34",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.531,
-      "azimute": 2.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:06:43",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.618,
-      "azimute": 1.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:06:46",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.895,
-      "azimute": 1.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:07:04",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.722,
-      "azimute": 1.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:07:34",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.663,
-      "azimute": 1.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:07:40",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.734,
-      "azimute": 0.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T14:07:58",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.661,
-      "azimute": 0.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T14:15:25",
       "sci_name": "Myiothlypis leucoblephara",
@@ -5530,6 +5398,39 @@
       "azimute": 28.0,
       "azimute_std": 0.0,
       "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T14:04:52",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.666,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T14:05:37",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.596,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T14:05:46",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.534,
+      "azimute": 178.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
