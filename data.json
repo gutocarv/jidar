@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T11:45:03.213462",
+  "exported_at": "2026-07-03T12:00:08.247066",
   "hours": 48,
-  "total": 592,
-  "ok": 580,
+  "total": 590,
+  "ok": 578,
   "detections": [
-    {
-      "datetime": "2026-07-02T11:20:22",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.531,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T11:21:52",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.677,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T11:38:55",
       "sci_name": "Tolmomyias sulphurescens",
