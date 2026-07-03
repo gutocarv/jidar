@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T08:45:03.722929",
+  "exported_at": "2026-07-03T09:00:16.799174",
   "hours": 48,
   "total": 581,
   "ok": 569,
   "detections": [
-    {
-      "datetime": "2026-07-02T08:34:22",
-      "sci_name": "Camptostoma obsoletum",
-      "com_name": "Southern Beardless-Tyrannulet",
-      "name_pt": "Risadinha",
-      "confidence": 0.715,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T08:39:49",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.522,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T08:42:58",
       "sci_name": "Lathrotriccus euleri",
@@ -6399,6 +6377,28 @@
       "azimute": 39.8,
       "azimute_std": 34.8,
       "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:35:52",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.593,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:37:10",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.586,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
