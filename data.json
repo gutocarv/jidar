@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-02T21:00:03.097446",
+  "exported_at": "2026-07-02T21:15:05.767910",
   "hours": 48,
-  "total": 650,
-  "ok": 640,
+  "total": 653,
+  "ok": 643,
   "detections": [
     {
       "datetime": "2026-07-01T23:49:42",
@@ -7158,6 +7158,39 @@
       "azimute": 121.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T20:42:43",
+      "sci_name": "Geotrygon montana",
+      "com_name": "Ruddy Quail-Dove",
+      "name_pt": "Pariri",
+      "confidence": 0.527,
+      "azimute": 118.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T20:51:16",
+      "sci_name": "Amblyramphus holosericeus",
+      "com_name": "Scarlet-headed Blackbird",
+      "name_pt": "Cardeal-dos-charcos",
+      "confidence": 0.521,
+      "azimute": 26.3,
+      "azimute_std": 3.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-02T20:52:49",
+      "sci_name": "Ciccaba virgata",
+      "com_name": "Mottled Owl",
+      "name_pt": "Coruja-do-mato-neotropical",
+      "confidence": 0.567,
+      "azimute": 26.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
       "qualidade": "ok"
     }
   ]
