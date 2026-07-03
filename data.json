@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T09:15:09.459734",
+  "exported_at": "2026-07-03T09:30:07.921850",
   "hours": 48,
   "total": 565,
   "ok": 555,
   "detections": [
-    {
-      "datetime": "2026-07-02T08:57:43",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.741,
-      "azimute": 177.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T08:57:58",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.554,
-      "azimute": 133.1,
-      "azimute_std": 32.2,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T09:24:37",
       "sci_name": "Lathrotriccus euleri",
@@ -6223,6 +6201,28 @@
       "azimute": 114.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:56:22",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.713,
+      "azimute": 114.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:59:46",
+      "sci_name": "Psittacara leucophthalmus",
+      "com_name": "White-eyed Parakeet",
+      "name_pt": "Periquitão-maracanã",
+      "confidence": 0.548,
+      "azimute": 90.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
       "qualidade": "ok"
     }
   ]
