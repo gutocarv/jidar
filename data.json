@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T15:15:02.038502",
+  "exported_at": "2026-07-03T15:30:01.882235",
   "hours": 48,
-  "total": 428,
-  "ok": 417,
+  "total": 424,
+  "ok": 413,
   "detections": [
-    {
-      "datetime": "2026-07-02T15:06:13",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.646,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T15:06:55",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.585,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T15:07:19",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.628,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T15:07:28",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.557,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T15:11:43",
-      "sci_name": "Phyllomyias virescens",
-      "com_name": "Greenish Tyrannulet",
-      "name_pt": "Piolhinho-esverdeado",
-      "confidence": 0.608,
-      "azimute": 182.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T15:13:28",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.676,
-      "azimute": 180.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T15:16:07",
       "sci_name": "Leptotila verreauxi",
@@ -4714,6 +4648,28 @@
       "name_pt": "Juriti-gemedeira",
       "confidence": 0.511,
       "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T15:01:43",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.521,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T15:11:25",
+      "sci_name": "Synallaxis spixi",
+      "com_name": "Spix's Spinetail",
+      "name_pt": "João-teneném",
+      "confidence": 0.659,
+      "azimute": 110.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
