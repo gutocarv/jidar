@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T04:30:10.379801",
+  "exported_at": "2026-07-03T04:45:16.247645",
   "hours": 48,
-  "total": 624,
-  "ok": 614,
+  "total": 622,
+  "ok": 612,
   "detections": [
-    {
-      "datetime": "2026-07-02T04:08:18",
-      "sci_name": "Nycticorax nycticorax",
-      "com_name": "Black-crowned Night-Heron",
-      "name_pt": "Goraz",
-      "confidence": 0.704,
-      "azimute": 120.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T04:08:25",
-      "sci_name": "Nycticorax nycticorax",
-      "com_name": "Black-crowned Night-Heron",
-      "name_pt": "Goraz",
-      "confidence": 0.878,
-      "azimute": 120.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T06:24:24",
       "sci_name": "Turdus rufiventris",
