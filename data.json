@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T11:15:06.634902",
+  "exported_at": "2026-07-03T11:30:06.725181",
   "hours": 48,
-  "total": 596,
-  "ok": 584,
+  "total": 594,
+  "ok": 582,
   "detections": [
-    {
-      "datetime": "2026-07-02T10:55:25",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.548,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T10:56:04",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.582,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T10:57:46",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.786,
-      "azimute": 112.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T10:57:49",
-      "sci_name": "Coereba flaveola",
-      "com_name": "Bananaquit",
-      "name_pt": "Cambacica",
-      "confidence": 0.691,
-      "azimute": 101.3,
-      "azimute_std": 41.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T10:58:46",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.518,
-      "azimute": 356.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T11:06:07",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.564,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T11:11:22",
       "sci_name": "Tachyphonus coronatus",
@@ -6564,6 +6498,50 @@
       "azimute": 1.0,
       "azimute_std": 0.0,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T10:56:04",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.648,
+      "azimute": 291.0,
+      "azimute_std": 0.0,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T11:00:13",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.666,
+      "azimute": 289.0,
+      "azimute_std": 0.0,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T11:00:16",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.548,
+      "azimute": 289.0,
+      "azimute_std": 0.0,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T11:07:46",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.779,
+      "azimute": 274.0,
+      "azimute_std": 0.0,
+      "quadrante": "O",
       "qualidade": "ok"
     }
   ]
