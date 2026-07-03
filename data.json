@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T06:30:03.611389",
+  "exported_at": "2026-07-03T06:45:10.877406",
   "hours": 48,
-  "total": 622,
-  "ok": 612,
+  "total": 621,
+  "ok": 611,
   "detections": [
-    {
-      "datetime": "2026-07-02T06:24:24",
-      "sci_name": "Turdus rufiventris",
-      "com_name": "Rufous-bellied Thrush",
-      "name_pt": "Sabiá-de-barriga-ruiva",
-      "confidence": 0.641,
-      "azimute": 116.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T06:28:37",
       "sci_name": "Crypturellus tataupa",
