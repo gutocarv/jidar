@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T11:30:06.725181",
+  "exported_at": "2026-07-03T11:45:03.213462",
   "hours": 48,
-  "total": 594,
-  "ok": 582,
+  "total": 592,
+  "ok": 580,
   "detections": [
-    {
-      "datetime": "2026-07-02T11:11:22",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.887,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T11:11:34",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.662,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T11:12:01",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.733,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T11:17:46",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.645,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T11:20:22",
       "sci_name": "Coereba flaveola",
@@ -6542,6 +6498,28 @@
       "azimute": 274.0,
       "azimute_std": 0.0,
       "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T11:15:28",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.545,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T11:17:07",
+      "sci_name": "Pyroderus scutatus",
+      "com_name": "Red-ruffed Fruitcrow",
+      "name_pt": "Pavó",
+      "confidence": 0.861,
+      "azimute": 180.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
