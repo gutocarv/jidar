@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T04:00:08.132044",
+  "exported_at": "2026-07-03T04:15:10.303169",
   "hours": 48,
-  "total": 651,
-  "ok": 641,
+  "total": 648,
+  "ok": 638,
   "detections": [
-    {
-      "datetime": "2026-07-02T03:54:03",
-      "sci_name": "Nyctiphrynus ocellatus",
-      "com_name": "Ocellated Poorwill",
-      "name_pt": "Bacurau-ocelado",
-      "confidence": 0.871,
-      "azimute": 178.5,
-      "azimute_std": 1.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T03:54:45",
-      "sci_name": "Nyctiphrynus ocellatus",
-      "com_name": "Ocellated Poorwill",
-      "name_pt": "Bacurau-ocelado",
-      "confidence": 0.885,
-      "azimute": 180.7,
-      "azimute_std": 1.5,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T03:54:48",
-      "sci_name": "Nyctiphrynus ocellatus",
-      "com_name": "Ocellated Poorwill",
-      "name_pt": "Bacurau-ocelado",
-      "confidence": 0.702,
-      "azimute": 180.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T03:55:12",
       "sci_name": "Nyctiphrynus ocellatus",
