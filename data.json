@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T17:15:02.891511",
+  "exported_at": "2026-07-03T17:30:03.444956",
   "hours": 48,
-  "total": 411,
-  "ok": 403,
+  "total": 412,
+  "ok": 404,
   "detections": [
     {
       "datetime": "2026-07-02T18:31:40",
@@ -4529,6 +4529,17 @@
       "azimute": 107.0,
       "azimute_std": 0.0,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T17:11:04",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.813,
+      "azimute": 177.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
