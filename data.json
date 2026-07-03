@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T16:45:04.248518",
+  "exported_at": "2026-07-03T17:00:09.048305",
   "hours": 48,
-  "total": 408,
-  "ok": 399,
+  "total": 412,
+  "ok": 402,
   "detections": [
-    {
-      "datetime": "2026-07-02T16:34:40",
-      "sci_name": "Cranioleuca pallida",
-      "com_name": "Pallid Spinetail",
-      "name_pt": "Arredio-pálido",
-      "confidence": 0.51,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T16:38:58",
-      "sci_name": "Pyriglena leucoptera",
-      "com_name": "White-shouldered Fire-eye",
-      "name_pt": "Papa-taoca-do-sul",
-      "confidence": 0.646,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T16:39:01",
-      "sci_name": "Pyriglena leucoptera",
-      "com_name": "White-shouldered Fire-eye",
-      "name_pt": "Papa-taoca-do-sul",
-      "confidence": 0.711,
-      "azimute": 146.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T16:40:13",
       "sci_name": "Pyriglena leucoptera",
@@ -4497,6 +4464,83 @@
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:37:37",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.828,
+      "azimute": 3.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:37:46",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.642,
+      "azimute": 3.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:37:55",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.607,
+      "azimute": 106.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:38:04",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.655,
+      "azimute": 106.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:38:07",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.549,
+      "azimute": 106.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:38:46",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.733,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T16:39:46",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.731,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
