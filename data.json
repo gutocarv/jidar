@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T08:30:09.641724",
+  "exported_at": "2026-07-03T08:45:03.722929",
   "hours": 48,
-  "total": 578,
-  "ok": 566,
+  "total": 581,
+  "ok": 569,
   "detections": [
-    {
-      "datetime": "2026-07-02T08:05:16",
-      "sci_name": "Phyllomyias virescens",
-      "com_name": "Greenish Tyrannulet",
-      "name_pt": "Piolhinho-esverdeado",
-      "confidence": 0.532,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T08:34:22",
       "sci_name": "Camptostoma obsoletum",
@@ -6366,6 +6355,50 @@
       "azimute": 236.0,
       "azimute_std": 0.0,
       "quadrante": "SO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:10:55",
+      "sci_name": "Picumnus temminckii",
+      "com_name": "Ochre-collared Piculet",
+      "name_pt": "Pica-pau-anão-de-coleira",
+      "confidence": 0.615,
+      "azimute": 56.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:13:13",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.572,
+      "azimute": 57.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:14:31",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.557,
+      "azimute": 55.1,
+      "azimute_std": 16.3,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-03T08:14:34",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.665,
+      "azimute": 39.8,
+      "azimute_std": 34.8,
+      "quadrante": "NE",
       "qualidade": "ok"
     }
   ]
