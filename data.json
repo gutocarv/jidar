@@ -5,88 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T13:15:01.424344",
+  "exported_at": "2026-07-04T13:30:04.448222",
   "hours": 48,
-  "total": 382,
-  "ok": 369,
+  "total": 376,
+  "ok": 363,
   "detections": [
-    {
-      "datetime": "2026-07-03T13:00:40",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.709,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:01:04",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.601,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:03:22",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.771,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:03:34",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.53,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:13:46",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.872,
-      "azimute": 112.7,
-      "azimute_std": 0.7,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:14:13",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.765,
-      "azimute": 114.3,
-      "azimute_std": 1.2,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:14:46",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.76,
-      "azimute": 117.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T13:18:43",
       "sci_name": "Patagioenas plumbea",
@@ -4210,6 +4133,17 @@
       "azimute": 187.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:08:47",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.622,
+      "azimute": 354.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
