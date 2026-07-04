@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T06:15:01.560847",
+  "exported_at": "2026-07-04T06:30:01.821648",
   "hours": 48,
-  "total": 410,
-  "ok": 402,
+  "total": 411,
+  "ok": 403,
   "detections": [
     {
       "datetime": "2026-07-03T06:27:46",
@@ -4518,6 +4518,17 @@
       "azimute": 23.0,
       "azimute_std": 0.0,
       "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T06:07:50",
+      "sci_name": "Micrastur semitorquatus",
+      "com_name": "Collared Forest-Falcon",
+      "name_pt": "Falcão-relógio",
+      "confidence": 0.711,
+      "azimute": 118.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
