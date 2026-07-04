@@ -5,9 +5,9 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T12:30:05.553252",
+  "exported_at": "2026-07-04T12:45:01.389065",
   "hours": 48,
-  "total": 405,
+  "total": 406,
   "ok": 393,
   "detections": [
     {
@@ -4464,6 +4464,17 @@
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T12:13:35",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.561,
+      "azimute": 113.5,
+      "azimute_std": 51.7,
+      "quadrante": "SE",
+      "qualidade": "azimute_disperso"
     }
   ]
 }
