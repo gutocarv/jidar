@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T09:00:01.727893",
+  "exported_at": "2026-07-04T09:15:01.534623",
   "hours": 48,
-  "total": 324,
-  "ok": 317,
+  "total": 332,
+  "ok": 321,
   "detections": [
-    {
-      "datetime": "2026-07-03T08:52:37",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.561,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:54:22",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.815,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:56:22",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.713,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:59:46",
-      "sci_name": "Psittacara leucophthalmus",
-      "com_name": "White-eyed Parakeet",
-      "name_pt": "Periquitão-maracanã",
-      "confidence": 0.548,
-      "azimute": 90.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T09:09:55",
       "sci_name": "Troglodytes aedon",
@@ -3572,6 +3528,138 @@
       "azimute": 350.2,
       "azimute_std": 33.6,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:53:23",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.591,
+      "azimute": 352.6,
+      "azimute_std": 55.3,
+      "quadrante": "N",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-04T08:53:29",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.502,
+      "azimute": 8.1,
+      "azimute_std": 38.1,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:53:35",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.507,
+      "azimute": 326.0,
+      "azimute_std": 57.3,
+      "quadrante": "NO",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-04T08:53:41",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.754,
+      "azimute": 282.1,
+      "azimute_std": 38.3,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:53:47",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.735,
+      "azimute": 349.9,
+      "azimute_std": 53.4,
+      "quadrante": "N",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-04T08:54:20",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.927,
+      "azimute": 273.8,
+      "azimute_std": 0.4,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:54:23",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.598,
+      "azimute": 273.2,
+      "azimute_std": 1.5,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:54:32",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.621,
+      "azimute": 272.8,
+      "azimute_std": 0.9,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:54:53",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.543,
+      "azimute": 350.1,
+      "azimute_std": 53.5,
+      "quadrante": "N",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-04T08:55:20",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.514,
+      "azimute": 1.9,
+      "azimute_std": 43.5,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:55:53",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.952,
+      "azimute": 22.7,
+      "azimute_std": 0.9,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:57:11",
+      "sci_name": "Pionus maximiliani",
+      "com_name": "Scaly-headed Parrot",
+      "name_pt": "Maitaca-verde",
+      "confidence": 0.667,
+      "azimute": 23.0,
+      "azimute_std": 1.2,
+      "quadrante": "NE",
       "qualidade": "ok"
     }
   ]
