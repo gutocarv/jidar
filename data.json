@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T06:45:03.287478",
+  "exported_at": "2026-07-04T07:00:01.671595",
   "hours": 48,
-  "total": 410,
-  "ok": 402,
+  "total": 408,
+  "ok": 400,
   "detections": [
-    {
-      "datetime": "2026-07-03T06:36:01",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.825,
-      "azimute": 121.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T06:36:13",
-      "sci_name": "Todirostrum poliocephalum",
-      "com_name": "Gray-headed Tody-Flycatcher",
-      "name_pt": "Teque-teque",
-      "confidence": 0.552,
-      "azimute": 121.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T06:41:43",
-      "sci_name": "Patagioenas picazuro",
-      "com_name": "Picazuro Pigeon",
-      "name_pt": "Pombão",
-      "confidence": 0.511,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T06:46:52",
       "sci_name": "Pyriglena leucoptera",
@@ -4518,6 +4485,17 @@
       "azimute": 118.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T06:40:59",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.583,
+      "azimute": 28.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
       "qualidade": "ok"
     }
   ]
