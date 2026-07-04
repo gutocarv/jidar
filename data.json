@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T16:30:01.714530",
+  "exported_at": "2026-07-04T16:45:01.818062",
   "hours": 48,
-  "total": 348,
-  "ok": 335,
+  "total": 349,
+  "ok": 336,
   "detections": [
     {
       "datetime": "2026-07-03T16:37:37",
@@ -3836,6 +3836,17 @@
       "azimute": 109.7,
       "azimute_std": 0.5,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T16:16:23",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.566,
+      "azimute": 181.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
