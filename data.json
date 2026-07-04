@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T11:45:16.762421",
+  "exported_at": "2026-07-04T12:00:01.881246",
   "hours": 48,
-  "total": 393,
-  "ok": 381,
+  "total": 394,
+  "ok": 382,
   "detections": [
     {
       "datetime": "2026-07-03T12:30:46",
@@ -4328,6 +4328,17 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.82,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:25:08",
+      "sci_name": "Picumnus temminckii",
+      "com_name": "Ochre-collared Piculet",
+      "name_pt": "Pica-pau-anão-de-coleira",
+      "confidence": 0.606,
       "azimute": 110.0,
       "azimute_std": 0.0,
       "quadrante": "L",
