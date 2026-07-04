@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T08:15:01.357218",
+  "exported_at": "2026-07-04T08:30:01.690195",
   "hours": 48,
-  "total": 318,
-  "ok": 312,
+  "total": 315,
+  "ok": 309,
   "detections": [
-    {
-      "datetime": "2026-07-03T08:10:55",
-      "sci_name": "Picumnus temminckii",
-      "com_name": "Ochre-collared Piculet",
-      "name_pt": "Pica-pau-anão-de-coleira",
-      "confidence": 0.615,
-      "azimute": 56.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:13:13",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.572,
-      "azimute": 57.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:14:31",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.557,
-      "azimute": 55.1,
-      "azimute_std": 16.3,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:14:34",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.665,
-      "azimute": 39.8,
-      "azimute_std": 34.8,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T08:35:52",
       "sci_name": "Lathrotriccus euleri",
@@ -3506,6 +3462,17 @@
       "azimute": 109.7,
       "azimute_std": 0.7,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T08:16:44",
+      "sci_name": "Xenops rutilans",
+      "com_name": "Streaked Xenops",
+      "name_pt": "Bico-virado-carijó",
+      "confidence": 0.694,
+      "azimute": 112.5,
+      "azimute_std": 0.5,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
