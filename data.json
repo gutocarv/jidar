@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T13:30:04.448222",
+  "exported_at": "2026-07-04T13:45:01.922111",
   "hours": 48,
-  "total": 376,
-  "ok": 363,
+  "total": 372,
+  "ok": 358,
   "detections": [
-    {
-      "datetime": "2026-07-03T13:18:43",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.803,
-      "azimute": 117.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:18:49",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.656,
-      "azimute": 117.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:20:28",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.754,
-      "azimute": 352.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:20:34",
-      "sci_name": "Patagioenas plumbea",
-      "com_name": "Plumbeous Pigeon",
-      "name_pt": "Pomba-amargosa",
-      "confidence": 0.747,
-      "azimute": 352.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:27:04",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.726,
-      "azimute": 119.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:27:13",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.619,
-      "azimute": 119.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T13:31:55",
       "sci_name": "Columbina talpacoti",
@@ -4145,6 +4079,28 @@
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:19:59",
+      "sci_name": "Myiothlypis leucoblephara",
+      "com_name": "White-browed Warbler",
+      "name_pt": "Pula-pula-assobiador",
+      "confidence": 0.527,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:29:38",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.764,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
