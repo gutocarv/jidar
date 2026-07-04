@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T13:00:01.551073",
+  "exported_at": "2026-07-04T13:15:01.424344",
   "hours": 48,
-  "total": 383,
-  "ok": 370,
+  "total": 382,
+  "ok": 369,
   "detections": [
-    {
-      "datetime": "2026-07-03T12:51:19",
-      "sci_name": "Basileuterus culicivorus",
-      "com_name": "Golden-crowned Warbler",
-      "name_pt": "Pula-pula",
-      "confidence": 0.643,
-      "azimute": 107.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T13:00:40",
       "sci_name": "Leptotila verreauxi",
