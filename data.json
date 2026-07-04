@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T08:00:01.758653",
+  "exported_at": "2026-07-04T08:15:01.357218",
   "hours": 48,
-  "total": 324,
-  "ok": 318,
+  "total": 318,
+  "ok": 312,
   "detections": [
-    {
-      "datetime": "2026-07-03T07:58:31",
-      "sci_name": "Malacoptila striata",
-      "com_name": "Crescent-chested Puffbird",
-      "name_pt": "Barbudo-raiado",
-      "confidence": 0.56,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:01:04",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.533,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:01:07",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.67,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:01:13",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.771,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:01:16",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.633,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T08:01:22",
-      "sci_name": "Tachyphonus coronatus",
-      "com_name": "Ruby-crowned Tanager",
-      "name_pt": "Tiê-preto",
-      "confidence": 0.747,
-      "azimute": 236.0,
-      "azimute_std": 0.0,
-      "quadrante": "SO",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T08:10:55",
       "sci_name": "Picumnus temminckii",
