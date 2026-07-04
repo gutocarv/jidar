@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T17:15:02.092119",
+  "exported_at": "2026-07-04T17:30:01.914865",
   "hours": 48,
-  "total": 340,
-  "ok": 325,
+  "total": 341,
+  "ok": 326,
   "detections": [
-    {
-      "datetime": "2026-07-03T17:11:04",
-      "sci_name": "Pyriglena leucoptera",
-      "com_name": "White-shouldered Fire-eye",
-      "name_pt": "Papa-taoca-do-sul",
-      "confidence": 0.813,
-      "azimute": 177.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T17:16:04",
       "sci_name": "Thamnophilus caerulescens",
@@ -3734,10 +3723,10 @@
       "com_name": "Pale-breasted Thrush",
       "name_pt": "Sabiá-das-barreiras",
       "confidence": 0.856,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 114.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-04T16:59:38",
@@ -3745,6 +3734,28 @@
       "com_name": "Pale-breasted Thrush",
       "name_pt": "Sabiá-das-barreiras",
       "confidence": 0.713,
+      "azimute": 114.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T17:14:26",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.593,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
+    },
+    {
+      "datetime": "2026-07-04T17:14:41",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.569,
       "azimute": null,
       "azimute_std": null,
       "quadrante": "?",
