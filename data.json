@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T19:30:01.664636",
+  "exported_at": "2026-07-04T19:45:02.344489",
   "hours": 48,
-  "total": 364,
-  "ok": 345,
+  "total": 365,
+  "ok": 346,
   "detections": [
     {
       "datetime": "2026-07-03T21:16:49",
@@ -4012,6 +4012,17 @@
       "azimute": 8.0,
       "azimute_std": 5.7,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T19:24:29",
+      "sci_name": "Pandion haliaetus",
+      "com_name": "Osprey",
+      "name_pt": "Águia-pesqueira",
+      "confidence": 0.55,
+      "azimute": 116.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
