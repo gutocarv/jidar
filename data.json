@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T18:45:02.186363",
+  "exported_at": "2026-07-04T19:00:02.480086",
   "hours": 48,
-  "total": 365,
-  "ok": 346,
+  "total": 364,
+  "ok": 345,
   "detections": [
-    {
-      "datetime": "2026-07-03T18:31:10",
-      "sci_name": "Cryptopezus nattereri",
-      "com_name": "Speckle-breasted Antpitta",
-      "name_pt": "Pinto-do-mato",
-      "confidence": 0.709,
-      "azimute": 173.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T21:16:49",
       "sci_name": "Pandion haliaetus",
