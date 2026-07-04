@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T06:30:01.821648",
+  "exported_at": "2026-07-04T06:45:03.287478",
   "hours": 48,
-  "total": 411,
-  "ok": 403,
+  "total": 410,
+  "ok": 402,
   "detections": [
-    {
-      "datetime": "2026-07-03T06:27:46",
-      "sci_name": "Patagioenas cayennensis",
-      "com_name": "Pale-vented Pigeon",
-      "name_pt": "Pomba-galega",
-      "confidence": 0.574,
-      "azimute": 125.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T06:36:01",
       "sci_name": "Todirostrum poliocephalum",
