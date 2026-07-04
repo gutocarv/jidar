@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T20:45:03.603673",
+  "exported_at": "2026-07-03T21:00:01.558232",
   "hours": 48,
-  "total": 415,
-  "ok": 407,
+  "total": 413,
+  "ok": 405,
   "detections": [
-    {
-      "datetime": "2026-07-02T20:33:31",
-      "sci_name": "Strix hylophila",
-      "com_name": "Rusty-barred Owl",
-      "name_pt": "Coruja-listrada",
-      "confidence": 0.519,
-      "azimute": 121.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T20:42:43",
-      "sci_name": "Geotrygon montana",
-      "com_name": "Ruddy Quail-Dove",
-      "name_pt": "Pariri",
-      "confidence": 0.527,
-      "azimute": 118.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-02T20:51:16",
       "sci_name": "Amblyramphus holosericeus",
