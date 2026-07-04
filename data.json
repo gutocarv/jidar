@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T10:45:02.861541",
+  "exported_at": "2026-07-04T11:00:02.516017",
   "hours": 48,
-  "total": 379,
+  "total": 378,
   "ok": 368,
   "detections": [
-    {
-      "datetime": "2026-07-03T10:34:34",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.674,
-      "azimute": 150.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T10:38:07",
-      "sci_name": "Phyllomyias virescens",
-      "com_name": "Greenish Tyrannulet",
-      "name_pt": "Piolhinho-esverdeado",
-      "confidence": 0.729,
-      "azimute": 162.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T10:44:55",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.529,
-      "azimute": 119.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T10:45:16",
       "sci_name": "Lathrotriccus euleri",
@@ -4174,10 +4141,32 @@
       "com_name": "Spot-backed Antshrike",
       "name_pt": "Chocão-carijó",
       "confidence": 0.641,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 112.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T10:38:32",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.648,
+      "azimute": 117.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T10:41:56",
+      "sci_name": "Sittasomus griseicapillus",
+      "com_name": "Olivaceous Woodcreeper",
+      "name_pt": "Arapaçu-verde",
+      "confidence": 0.815,
+      "azimute": 117.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
     }
   ]
 }
