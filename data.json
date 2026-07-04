@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T11:15:01.486394",
+  "exported_at": "2026-07-04T11:30:01.760653",
   "hours": 48,
-  "total": 379,
-  "ok": 368,
+  "total": 392,
+  "ok": 380,
   "detections": [
-    {
-      "datetime": "2026-07-03T11:00:13",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.666,
-      "azimute": 289.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T11:00:16",
-      "sci_name": "Herpsilochmus rufimarginatus",
-      "com_name": "Rufous-margined Antwren",
-      "name_pt": "Chorozinho-de-asa-vermelha",
-      "confidence": 0.548,
-      "azimute": 289.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T11:07:46",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.779,
-      "azimute": 274.0,
-      "azimute_std": 0.0,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T11:15:28",
       "sci_name": "Columbina talpacoti",
@@ -4177,6 +4144,182 @@
       "azimute": 300.5,
       "azimute_std": 1.1,
       "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:00:11",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.888,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:00:20",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.686,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:00:35",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.697,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:00:53",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.661,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:00:59",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.609,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:01:08",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.611,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:01:11",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.8,
+      "azimute": 304.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:02:59",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.742,
+      "azimute": 303.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:03:11",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.549,
+      "azimute": 303.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:05:32",
+      "sci_name": "Basileuterus culicivorus",
+      "com_name": "Golden-crowned Warbler",
+      "name_pt": "Pula-pula",
+      "confidence": 0.527,
+      "azimute": 226.0,
+      "azimute_std": 48.9,
+      "quadrante": "SO",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-04T11:08:32",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.554,
+      "azimute": 17.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:09:05",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.6,
+      "azimute": 272.2,
+      "azimute_std": 0.4,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:09:26",
+      "sci_name": "Herpsilochmus rufimarginatus",
+      "com_name": "Rufous-margined Antwren",
+      "name_pt": "Chorozinho-de-asa-vermelha",
+      "confidence": 0.886,
+      "azimute": 202.7,
+      "azimute_std": 4.5,
+      "quadrante": "SO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:11:50",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.726,
+      "azimute": 236.0,
+      "azimute_std": 0.0,
+      "quadrante": "SO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:12:32",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.511,
+      "azimute": 236.0,
+      "azimute_std": 0.0,
+      "quadrante": "SO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T11:12:44",
+      "sci_name": "Tolmomyias sulphurescens",
+      "com_name": "Yellow-olive Flycatcher",
+      "name_pt": "Bico-chato-d'orelha-preta",
+      "confidence": 0.77,
+      "azimute": 236.0,
+      "azimute_std": 0.0,
+      "quadrante": "SO",
       "qualidade": "ok"
     }
   ]
