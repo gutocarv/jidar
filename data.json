@@ -5,66 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T14:45:05.640497",
+  "exported_at": "2026-07-04T15:00:01.290315",
   "hours": 48,
-  "total": 344,
-  "ok": 331,
+  "total": 343,
+  "ok": 330,
   "detections": [
-    {
-      "datetime": "2026-07-03T14:30:10",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.585,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:30:40",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.579,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:30:49",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.584,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:30:58",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.593,
-      "azimute": 358.3,
-      "azimute_std": 0.7,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:37:37",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.611,
-      "azimute": 3.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T14:45:40",
       "sci_name": "Leptotila verreauxi",
@@ -3792,6 +3737,50 @@
       "azimute": 115.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T14:32:32",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.678,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T14:33:14",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.519,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T14:36:44",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.604,
+      "azimute": 158.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T14:38:47",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.548,
+      "azimute": 158.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
