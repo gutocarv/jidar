@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T14:15:02.186226",
+  "exported_at": "2026-07-04T14:30:01.607392",
   "hours": 48,
-  "total": 356,
-  "ok": 342,
+  "total": 353,
+  "ok": 340,
   "detections": [
-    {
-      "datetime": "2026-07-03T14:04:52",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.666,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:05:37",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.596,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:05:46",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.534,
-      "azimute": 178.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T14:14:43",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.637,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T14:16:07",
       "sci_name": "Leptotila verreauxi",
@@ -3921,10 +3877,21 @@
       "com_name": "Gray-fronted Dove",
       "name_pt": "Juriti-gemedeira",
       "confidence": 0.723,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 81.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:59:53",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.595,
+      "azimute": 82.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
