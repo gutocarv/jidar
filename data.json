@@ -5,176 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T14:00:02.003726",
+  "exported_at": "2026-07-04T14:15:02.186226",
   "hours": 48,
-  "total": 366,
-  "ok": 353,
+  "total": 356,
+  "ok": 342,
   "detections": [
-    {
-      "datetime": "2026-07-03T13:45:04",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.79,
-      "azimute": 177.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:45:16",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.567,
-      "azimute": 166.6,
-      "azimute_std": 22.4,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:45:19",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.885,
-      "azimute": 133.7,
-      "azimute_std": 28.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:45:25",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.758,
-      "azimute": 115.2,
-      "azimute_std": 0.4,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:45:28",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.74,
-      "azimute": 115.6,
-      "azimute_std": 0.5,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:46:01",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.666,
-      "azimute": 27.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:46:07",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.856,
-      "azimute": 27.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:46:10",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.802,
-      "azimute": 27.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:47:55",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.513,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:48:01",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.841,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:48:13",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.713,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:48:16",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.739,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:48:58",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.56,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:49:01",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.557,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T13:49:22",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.78,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T14:04:52",
       "sci_name": "Lathrotriccus euleri",
@@ -4035,6 +3870,61 @@
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:50:05",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.557,
+      "azimute": 114.7,
+      "azimute_std": 0.5,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:50:17",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.522,
+      "azimute": 115.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:51:11",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.577,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:58:53",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.609,
+      "azimute": 83.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T13:59:32",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.723,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
