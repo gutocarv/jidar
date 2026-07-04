@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T09:45:01.759502",
+  "exported_at": "2026-07-04T10:00:01.368096",
   "hours": 48,
   "total": 364,
   "ok": 353,
   "detections": [
-    {
-      "datetime": "2026-07-03T09:43:52",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.548,
-      "azimute": 354.8,
-      "azimute_std": 0.4,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T09:47:34",
       "sci_name": "Columbina talpacoti",
@@ -4012,6 +4001,17 @@
       "azimute": 109.8,
       "azimute_std": 2.3,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T09:42:05",
+      "sci_name": "Todirostrum poliocephalum",
+      "com_name": "Gray-headed Tody-Flycatcher",
+      "name_pt": "Teque-teque",
+      "confidence": 0.569,
+      "azimute": 1.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
