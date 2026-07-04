@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-03T21:00:01.558232",
+  "exported_at": "2026-07-03T21:15:02.215308",
   "hours": 48,
-  "total": 413,
-  "ok": 405,
+  "total": 411,
+  "ok": 403,
   "detections": [
-    {
-      "datetime": "2026-07-02T20:51:16",
-      "sci_name": "Amblyramphus holosericeus",
-      "com_name": "Scarlet-headed Blackbird",
-      "name_pt": "Cardeal-dos-charcos",
-      "confidence": 0.521,
-      "azimute": 26.3,
-      "azimute_std": 3.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-02T20:52:49",
-      "sci_name": "Ciccaba virgata",
-      "com_name": "Mottled Owl",
-      "name_pt": "Coruja-do-mato-neotropical",
-      "confidence": 0.567,
-      "azimute": 26.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T01:34:16",
       "sci_name": "Ciccaba virgata",
