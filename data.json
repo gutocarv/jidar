@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T20:00:01.971298",
+  "exported_at": "2026-07-04T20:15:01.697869",
   "hours": 48,
-  "total": 365,
-  "ok": 346,
+  "total": 366,
+  "ok": 347,
   "detections": [
     {
       "datetime": "2026-07-03T21:16:49",
@@ -4021,6 +4021,17 @@
       "name_pt": "Águia-pesqueira",
       "confidence": 0.55,
       "azimute": 116.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T19:50:02",
+      "sci_name": "Pyroderus scutatus",
+      "com_name": "Red-ruffed Fruitcrow",
+      "name_pt": "Pavó",
+      "confidence": 0.584,
+      "azimute": 114.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
