@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T15:45:04.888238",
+  "exported_at": "2026-07-04T16:00:01.486926",
   "hours": 48,
-  "total": 328,
-  "ok": 315,
+  "total": 341,
+  "ok": 328,
   "detections": [
     {
       "datetime": "2026-07-03T16:02:58",
@@ -3616,6 +3616,149 @@
       "azimute": 184.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:30:41",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.58,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:30:44",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.535,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:30:56",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.537,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:34:23",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.565,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:34:32",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.657,
+      "azimute": 96.2,
+      "azimute_std": 4.8,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:35:02",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.598,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:35:08",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.574,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:38:53",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.515,
+      "azimute": 93.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:38:56",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.758,
+      "azimute": 92.3,
+      "azimute_std": 0.9,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:39:17",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.847,
+      "azimute": 292.0,
+      "azimute_std": 2.0,
+      "quadrante": "O",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:39:47",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.505,
+      "azimute": 183.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:40:17",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.505,
+      "azimute": 183.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T15:40:23",
+      "sci_name": "Turdus leucomelas",
+      "com_name": "Pale-breasted Thrush",
+      "name_pt": "Sabiá-das-barreiras",
+      "confidence": 0.752,
+      "azimute": 273.3,
+      "azimute_std": 0.9,
+      "quadrante": "O",
       "qualidade": "ok"
     }
   ]
