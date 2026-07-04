@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T17:30:01.914865",
+  "exported_at": "2026-07-04T17:45:01.572665",
   "hours": 48,
-  "total": 341,
+  "total": 339,
   "ok": 326,
   "detections": [
-    {
-      "datetime": "2026-07-03T17:16:04",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.69,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T17:16:25",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.662,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-03T17:16:34",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.76,
-      "azimute": 176.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-03T17:31:28",
       "sci_name": "Turdus albicollis",
@@ -3745,10 +3712,10 @@
       "com_name": "Violet-capped Woodnymph",
       "name_pt": "Beija-flor-de-testa-violeta",
       "confidence": 0.593,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 170.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-04T17:14:41",
@@ -3756,10 +3723,21 @@
       "com_name": "Violet-capped Woodnymph",
       "name_pt": "Beija-flor-de-testa-violeta",
       "confidence": 0.569,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 175.0,
+      "azimute_std": 2.2,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-04T17:15:11",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.537,
+      "azimute": 172.4,
+      "azimute_std": 3.2,
+      "quadrante": "S",
+      "qualidade": "ok"
     }
   ]
 }
