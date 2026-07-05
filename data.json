@@ -5,66 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T07:45:03.286393",
+  "exported_at": "2026-07-05T08:00:01.854862",
   "hours": 48,
-  "total": 390,
-  "ok": 372,
+  "total": 386,
+  "ok": 368,
   "detections": [
-    {
-      "datetime": "2026-07-04T07:36:17",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.933,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:36:35",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.929,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:39:44",
-      "sci_name": "Cyclarhis gujanensis",
-      "com_name": "Rufous-browed Peppershrike",
-      "name_pt": "Pitiguari",
-      "confidence": 0.524,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:40:02",
-      "sci_name": "Nycticorax nycticorax",
-      "com_name": "Black-crowned Night-Heron",
-      "name_pt": "Goraz",
-      "confidence": 0.598,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:40:14",
-      "sci_name": "Nycticorax nycticorax",
-      "com_name": "Black-crowned Night-Heron",
-      "name_pt": "Goraz",
-      "confidence": 0.61,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T07:48:08",
       "sci_name": "Thalurania glaucopis",
@@ -4298,6 +4243,17 @@
       "azimute": 178.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T07:32:20",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.908,
+      "azimute": 135.1,
+      "azimute_std": 28.7,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
