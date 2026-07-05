@@ -5,99 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T08:00:01.854862",
+  "exported_at": "2026-07-05T08:15:01.269920",
   "hours": 48,
-  "total": 386,
-  "ok": 368,
+  "total": 378,
+  "ok": 360,
   "detections": [
-    {
-      "datetime": "2026-07-04T07:48:08",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.907,
-      "azimute": 108.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:11",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.721,
-      "azimute": 108.2,
-      "azimute_std": 0.4,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:14",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.565,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:17",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.768,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:20",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.803,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:23",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.878,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:26",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.608,
-      "azimute": 108.7,
-      "azimute_std": 0.9,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T07:48:29",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.887,
-      "azimute": 109.7,
-      "azimute_std": 0.7,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T08:16:44",
       "sci_name": "Xenops rutilans",
