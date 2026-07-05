@@ -95,7 +95,92 @@ canvas{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);cursor:
 <div id="log-area"></div>
 
 <script>
-const COLORS=['#1D9E75','#378ADD','#D85A30','#7F77DD','#BA7517','#D4537E','#97C459','#EF9F27','#48B8D0','#C46E9B'];
+
+const TAXONOMY_COLORS = {
+  strigiformes: '#9B59B6',
+  caprimulgiformes: '#2C3E7A',
+  apodiformes: '#00BCD4',
+  piciformes: '#E67E22',
+  psittaciformes: '#8BC34A',
+  tyrannidae: '#F1C40F',
+  thraupidae: '#E91E63',
+  turdidae: '#FF7043',
+  thamnophilidae: '#7CB342',
+  furnariidae: '#A0522D',
+  passeriformes: '#5C8FD6',
+  columbiformes: '#C8B89A',
+  other: '#888780',
+};
+
+const GENUS_FAMILY = {
+  'Megascops':'strigiformes','Strix':'strigiformes','Pulsatrix':'strigiformes',
+  'Tyto':'strigiformes','Glaucidium':'strigiformes','Ciccaba':'strigiformes',
+  'Asio':'strigiformes','Athene':'strigiformes','Lophostrix':'strigiformes',
+  'Nyctibius':'caprimulgiformes','Nyctiphrynus':'caprimulgiformes',
+  'Caprimulgus':'caprimulgiformes','Hydropsalis':'caprimulgiformes',
+  'Lurocalis':'caprimulgiformes','Podager':'caprimulgiformes',
+  'Antrostomus':'caprimulgiformes','Chordeiles':'caprimulgiformes',
+  'Phaethornis':'apodiformes','Eupetomena':'apodiformes','Florisuga':'apodiformes',
+  'Colibri':'apodiformes','Anthracothorax':'apodiformes','Lophornis':'apodiformes',
+  'Chlorostilbon':'apodiformes','Thalurania':'apodiformes','Hylocharis':'apodiformes',
+  'Amazilia':'apodiformes','Heliodoxa':'apodiformes','Heliomaster':'apodiformes',
+  'Calliphlox':'apodiformes','Chionomesa':'apodiformes','Leucochloris':'apodiformes',
+  'Clytolaema':'apodiformes','Chaetura':'apodiformes','Streptoprocne':'apodiformes',
+  'Cypseloides':'apodiformes',
+  'Picumnus':'piciformes','Melanerpes':'piciformes','Veniliornis':'piciformes',
+  'Piculus':'piciformes','Colaptes':'piciformes','Celeus':'piciformes',
+  'Dryocopus':'piciformes','Campephilus':'piciformes','Ramphastos':'piciformes',
+  'Selenidera':'piciformes','Pteroglossus':'piciformes','Aulacorhynchus':'piciformes',
+  'Amazona':'psittaciformes','Pionus':'psittaciformes','Brotogeris':'psittaciformes',
+  'Forpus':'psittaciformes','Myiopsitta':'psittaciformes','Psittacara':'psittaciformes',
+  'Aratinga':'psittaciformes','Pyrrhura':'psittaciformes','Triclaria':'psittaciformes',
+  'Pitangus':'tyrannidae','Myiozetetes':'tyrannidae','Megarynchus':'tyrannidae',
+  'Tyrannus':'tyrannidae','Empidonomus':'tyrannidae','Myiodynastes':'tyrannidae',
+  'Legatus':'tyrannidae','Sirystes':'tyrannidae','Conopias':'tyrannidae',
+  'Elaenia':'tyrannidae','Camptostoma':'tyrannidae','Phaeomyias':'tyrannidae',
+  'Myiopagis':'tyrannidae','Attila':'tyrannidae','Casiornis':'tyrannidae',
+  'Myiarchus':'tyrannidae','Contopus':'tyrannidae','Pyrocephalus':'tyrannidae',
+  'Fluvicola':'tyrannidae','Knipolegus':'tyrannidae','Xolmis':'tyrannidae',
+  'Todirostrum':'tyrannidae','Hemitriccus':'tyrannidae','Corythopis':'tyrannidae',
+  'Mionectes':'tyrannidae','Leptopogon':'tyrannidae','Phylloscartes':'tyrannidae',
+  'Tolmomyias':'tyrannidae','Platyrinchus':'tyrannidae','Myiobius':'tyrannidae',
+  'Thraupis':'thraupidae','Tangara':'thraupidae','Ramphocelus':'thraupidae',
+  'Tachyphonus':'thraupidae','Habia':'thraupidae','Piranga':'thraupidae',
+  'Tersina':'thraupidae','Dacnis':'thraupidae','Cyanerpes':'thraupidae',
+  'Chlorophanes':'thraupidae','Hemithraupis':'thraupidae','Nemosia':'thraupidae',
+  'Coereba':'thraupidae','Saltator':'thraupidae','Sporophila':'thraupidae',
+  'Volatinia':'thraupidae','Sicalis':'thraupidae','Emberizoides':'thraupidae',
+  'Embernagra':'thraupidae','Coryphospingus':'thraupidae','Paroaria':'thraupidae',
+  'Lanio':'thraupidae','Trichothraupis':'thraupidae','Stephanophorus':'thraupidae',
+  'Pipraeidea':'thraupidae','Eucometis':'thraupidae',
+  'Turdus':'turdidae','Catharus':'turdidae','Platycichla':'turdidae',
+  'Thamnophilus':'thamnophilidae','Dysithamnus':'thamnophilidae',
+  'Thamnomanes':'thamnophilidae','Myrmotherula':'thamnophilidae',
+  'Herpsilochmus':'thamnophilidae','Formicivora':'thamnophilidae',
+  'Drymophila':'thamnophilidae','Terenura':'thamnophilidae',
+  'Cercomacra':'thamnophilidae','Pyriglena':'thamnophilidae',
+  'Myrmeciza':'thamnophilidae','Taraba':'thamnophilidae',
+  'Mackenziaena':'thamnophilidae','Batara':'thamnophilidae','Biatas':'thamnophilidae',
+  'Furnarius':'furnariidae','Synallaxis':'furnariidae','Phacellodomus':'furnariidae',
+  'Anumbius':'furnariidae','Cranioleuca':'furnariidae','Asthenes':'furnariidae',
+  'Leptasthenura':'furnariidae','Lochmias':'furnariidae','Automolus':'furnariidae',
+  'Philydor':'furnariidae','Anabacerthia':'furnariidae','Cichlocolaptes':'furnariidae',
+  'Dendrocincla':'furnariidae','Sittasomus':'furnariidae','Glyphorynchus':'furnariidae',
+  'Xiphocolaptes':'furnariidae','Dendrocolaptes':'furnariidae',
+  'Xiphorhynchus':'furnariidae','Lepidocolaptes':'furnariidae',
+  'Campylorhamphus':'furnariidae',
+  'Columbina':'columbiformes','Claravis':'columbiformes','Leptotila':'columbiformes',
+  'Geotrygon':'columbiformes','Zentrygon':'columbiformes','Columba':'columbiformes',
+  'Patagioenas':'columbiformes','Zenaida':'columbiformes',
+};
+
+function getTaxonomyColor(sci_name) {
+  if (!sci_name) return TAXONOMY_COLORS.other;
+  const genus = sci_name.split(' ')[0];
+  const family = GENUS_FAMILY[genus];
+  return family ? TAXONOMY_COLORS[family] : TAXONOMY_COLORS.other;
+}
+
 const canvas=document.getElementById('c');
 const ctx=canvas.getContext('2d');
 let W=500,H=500,CX=250,CY=250,RADAR_R=190;
@@ -132,7 +217,7 @@ function resize(){
 function deg2rad(d){return d*Math.PI/180}
 function getColor(sci){
   if(!(sci in speciesMap)){speciesMap[sci]=Object.keys(speciesMap).length;activeSpecies.add(sci);}
-  return COLORS[speciesMap[sci]%COLORS.length];
+  return getTaxonomyColor(sci);
 }
 
 function filteredDetections(){
