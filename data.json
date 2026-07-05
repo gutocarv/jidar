@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T07:00:02.272381",
+  "exported_at": "2026-07-05T07:15:02.216524",
   "hours": 48,
-  "total": 372,
-  "ok": 353,
+  "total": 370,
+  "ok": 351,
   "detections": [
-    {
-      "datetime": "2026-07-04T06:45:26",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.503,
-      "azimute": 23.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T06:45:35",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.51,
-      "azimute": 23.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T06:45:50",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.798,
-      "azimute": 23.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T06:48:02",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.686,
-      "azimute": 22.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T07:01:53",
       "sci_name": "Cyclarhis gujanensis",
@@ -4097,6 +4053,28 @@
       "com_name": "White-shouldered Fire-eye",
       "name_pt": "Papa-taoca-do-sul",
       "confidence": 0.792,
+      "azimute": 180.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:48:32",
+      "sci_name": "Patagioenas cayennensis",
+      "com_name": "Pale-vented Pigeon",
+      "name_pt": "Pomba-galega",
+      "confidence": 0.502,
+      "azimute": 180.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:48:50",
+      "sci_name": "Patagioenas picazuro",
+      "com_name": "Picazuro Pigeon",
+      "name_pt": "Pombão",
+      "confidence": 0.548,
       "azimute": 180.0,
       "azimute_std": 0.0,
       "quadrante": "S",
