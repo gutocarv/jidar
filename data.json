@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T09:45:03.624122",
+  "exported_at": "2026-07-05T10:00:15.106323",
   "hours": 48,
-  "total": 435,
-  "ok": 421,
+  "total": 438,
+  "ok": 424,
   "detections": [
     {
       "datetime": "2026-07-04T09:42:05",
@@ -4792,6 +4792,39 @@
       "confidence": 0.54,
       "azimute": 115.8,
       "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:28:29",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.641,
+      "azimute": 113.2,
+      "azimute_std": 0.4,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:28:32",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.831,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:28:35",
+      "sci_name": "Thalurania glaucopis",
+      "com_name": "Violet-capped Woodnymph",
+      "name_pt": "Beija-flor-de-testa-violeta",
+      "confidence": 0.561,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
       "quadrante": "SE",
       "qualidade": "ok"
     }
