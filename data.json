@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T06:45:01.575048",
+  "exported_at": "2026-07-05T07:00:02.272381",
   "hours": 48,
-  "total": 363,
-  "ok": 344,
+  "total": 372,
+  "ok": 353,
   "detections": [
-    {
-      "datetime": "2026-07-04T06:40:59",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.583,
-      "azimute": 28.0,
-      "azimute_std": 0.0,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T06:45:26",
       "sci_name": "Thamnophilus caerulescens",
@@ -4001,6 +3990,116 @@
       "azimute": 114.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:37:17",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.726,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:05",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.698,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:20",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.828,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:23",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.647,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:35",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.774,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:50",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.768,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:38:56",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.507,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:39:02",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.879,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:40:23",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.775,
+      "azimute": 179.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T06:41:05",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.792,
+      "azimute": 180.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
       "qualidade": "ok"
     }
   ]
