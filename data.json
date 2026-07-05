@@ -5,143 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T09:15:07.828282",
+  "exported_at": "2026-07-05T09:30:12.026863",
   "hours": 48,
-  "total": 475,
-  "ok": 452,
+  "total": 470,
+  "ok": 456,
   "detections": [
-    {
-      "datetime": "2026-07-04T08:53:23",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.591,
-      "azimute": 352.6,
-      "azimute_std": 55.3,
-      "quadrante": "N",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-07-04T08:53:29",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.502,
-      "azimute": 8.1,
-      "azimute_std": 38.1,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:53:35",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.507,
-      "azimute": 326.0,
-      "azimute_std": 57.3,
-      "quadrante": "NO",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-07-04T08:53:41",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.754,
-      "azimute": 282.1,
-      "azimute_std": 38.3,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:53:47",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.735,
-      "azimute": 349.9,
-      "azimute_std": 53.4,
-      "quadrante": "N",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-07-04T08:54:20",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.927,
-      "azimute": 273.8,
-      "azimute_std": 0.4,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:54:23",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.598,
-      "azimute": 273.2,
-      "azimute_std": 1.5,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:54:32",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.621,
-      "azimute": 272.8,
-      "azimute_std": 0.9,
-      "quadrante": "O",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:54:53",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.543,
-      "azimute": 350.1,
-      "azimute_std": 53.5,
-      "quadrante": "N",
-      "qualidade": "azimute_disperso"
-    },
-    {
-      "datetime": "2026-07-04T08:55:20",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.514,
-      "azimute": 1.9,
-      "azimute_std": 43.5,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:55:53",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.952,
-      "azimute": 22.7,
-      "azimute_std": 0.9,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T08:57:11",
-      "sci_name": "Pionus maximiliani",
-      "com_name": "Scaly-headed Parrot",
-      "name_pt": "Maitaca-verde",
-      "confidence": 0.667,
-      "azimute": 23.0,
-      "azimute_std": 1.2,
-      "quadrante": "NE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T09:06:44",
       "sci_name": "Thalurania glaucopis",
@@ -5186,10 +5054,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.631,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-05T08:49:35",
@@ -5197,10 +5065,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.813,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-05T08:49:38",
@@ -5208,10 +5076,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.821,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-05T08:49:44",
@@ -5219,10 +5087,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.784,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-05T08:49:47",
@@ -5230,10 +5098,87 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.757,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T08:49:53",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.64,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T08:50:14",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.542,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T08:50:26",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.56,
+      "azimute": 182.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T08:56:53",
+      "sci_name": "Todirostrum poliocephalum",
+      "com_name": "Gray-headed Tody-Flycatcher",
+      "name_pt": "Teque-teque",
+      "confidence": 0.618,
+      "azimute": 4.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:02:02",
+      "sci_name": "Conopophaga lineata",
+      "com_name": "Rufous Gnateater",
+      "name_pt": "Chupa-dente",
+      "confidence": 0.511,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:02:23",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.51,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T09:02:23",
+      "sci_name": "Conopophaga lineata",
+      "com_name": "Rufous Gnateater",
+      "name_pt": "Chupa-dente",
+      "confidence": 0.562,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
