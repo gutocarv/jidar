@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T14:15:03.242704",
+  "exported_at": "2026-07-05T14:30:04.190961",
   "hours": 48,
-  "total": 398,
-  "ok": 391,
+  "total": 396,
+  "ok": 389,
   "detections": [
-    {
-      "datetime": "2026-07-04T13:58:53",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.609,
-      "azimute": 83.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T13:59:32",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.723,
-      "azimute": 81.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T13:59:53",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.595,
-      "azimute": 82.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T14:26:32",
       "sci_name": "Leptotila verreauxi",
@@ -4386,6 +4353,17 @@
       "azimute": 129.0,
       "azimute_std": 0.0,
       "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T13:56:11",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.67,
+      "azimute": 355.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
       "qualidade": "ok"
     }
   ]
