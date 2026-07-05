@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-04T21:30:01.899273",
+  "exported_at": "2026-07-04T21:45:02.654593",
   "hours": 48,
-  "total": 366,
-  "ok": 347,
+  "total": 365,
+  "ok": 346,
   "detections": [
-    {
-      "datetime": "2026-07-03T21:16:49",
-      "sci_name": "Pandion haliaetus",
-      "com_name": "Osprey",
-      "name_pt": "Águia-pesqueira",
-      "confidence": 0.599,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T04:38:17",
       "sci_name": "Tyto alba",
