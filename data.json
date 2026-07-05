@@ -5,44 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T14:00:06.123594",
+  "exported_at": "2026-07-05T14:15:03.242704",
   "hours": 48,
-  "total": 401,
-  "ok": 394,
+  "total": 398,
+  "ok": 391,
   "detections": [
-    {
-      "datetime": "2026-07-04T13:50:05",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.557,
-      "azimute": 114.7,
-      "azimute_std": 0.5,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T13:50:17",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.522,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T13:51:11",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.577,
-      "azimute": 113.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T13:58:53",
       "sci_name": "Leptotila rufaxilla",
