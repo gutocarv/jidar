@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T14:30:04.190961",
+  "exported_at": "2026-07-05T14:45:01.568086",
   "hours": 48,
-  "total": 396,
-  "ok": 389,
+  "total": 397,
+  "ok": 390,
   "detections": [
     {
       "datetime": "2026-07-04T14:26:32",
@@ -4362,6 +4362,17 @@
       "name_pt": "Rolinha-púrpura",
       "confidence": 0.67,
       "azimute": 355.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T14:11:50",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.672,
+      "azimute": 0.0,
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
