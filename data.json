@@ -5,110 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T14:45:01.568086",
+  "exported_at": "2026-07-05T15:00:08.190584",
   "hours": 48,
-  "total": 397,
-  "ok": 390,
+  "total": 389,
+  "ok": 381,
   "detections": [
-    {
-      "datetime": "2026-07-04T14:26:32",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.539,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:26:41",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.503,
-      "azimute": 112.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:27:53",
-      "sci_name": "Hemithraupis guira",
-      "com_name": "Guira Tanager",
-      "name_pt": "Saíra-de-papo-preto",
-      "confidence": 0.557,
-      "azimute": 112.8,
-      "azimute_std": 1.6,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:28:23",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.529,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:29:44",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.523,
-      "azimute": 115.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:32:32",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.678,
-      "azimute": 110.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:33:14",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.519,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:36:44",
-      "sci_name": "Leptotila rufaxilla",
-      "com_name": "Gray-fronted Dove",
-      "name_pt": "Juriti-gemedeira",
-      "confidence": 0.604,
-      "azimute": 158.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-04T14:38:47",
-      "sci_name": "Leptotila verreauxi",
-      "com_name": "White-tipped Dove",
-      "name_pt": "Juriti-pupu",
-      "confidence": 0.548,
-      "azimute": 158.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T15:03:23",
       "sci_name": "Pitangus sulphuratus",
@@ -4376,6 +4277,17 @@
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T14:39:17",
+      "sci_name": "Coereba flaveola",
+      "com_name": "Bananaquit",
+      "name_pt": "Cambacica",
+      "confidence": 0.546,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
