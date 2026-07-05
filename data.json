@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-05T13:15:07.858489",
+  "exported_at": "2026-07-05T13:30:11.204173",
   "hours": 48,
   "total": 404,
   "ok": 397,
   "detections": [
-    {
-      "datetime": "2026-07-04T13:08:47",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.622,
-      "azimute": 354.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-04T13:19:59",
       "sci_name": "Myiothlypis leucoblephara",
@@ -4452,6 +4441,17 @@
       "azimute": 177.0,
       "azimute_std": 0.0,
       "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-05T12:55:50",
+      "sci_name": "Leptopogon amaurocephalus",
+      "com_name": "Sepia-capped Flycatcher",
+      "name_pt": "Cabeçudo",
+      "confidence": 0.774,
+      "azimute": 116.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
