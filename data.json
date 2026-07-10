@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T10:30:03.102996",
+  "exported_at": "2026-07-10T10:45:01.959615",
   "hours": 48,
-  "total": 200,
-  "ok": 199,
+  "total": 204,
+  "ok": 202,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -2209,6 +2209,50 @@
       "azimute_std": 0.0,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T10:26:43",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.654,
+      "azimute": 196.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T10:27:58",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.563,
+      "azimute": 196.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T10:28:40",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.645,
+      "azimute": 196.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T10:29:22",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.661,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
