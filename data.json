@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T11:15:02.766670",
+  "exported_at": "2026-07-10T11:30:16.792006",
   "hours": 48,
-  "total": 229,
-  "ok": 227,
+  "total": 243,
+  "ok": 242,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -2524,10 +2524,164 @@
       "com_name": "Euler's Flycatcher",
       "name_pt": "Enferrujado",
       "confidence": 0.738,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 173.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:01:25",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.516,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:02:01",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.558,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:02:07",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.666,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:02:37",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.853,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:03:07",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.517,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:03:16",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.847,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:03:25",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.743,
+      "azimute": 294.0,
+      "azimute_std": 0.0,
+      "quadrante": "NO",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:03:31",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.773,
+      "azimute": 345.6,
+      "azimute_std": 40.8,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:03:49",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.613,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:04:13",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.921,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:05:04",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.513,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:05:19",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.532,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:05:37",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.718,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:06:16",
+      "sci_name": "Lathrotriccus euleri",
+      "com_name": "Euler's Flycatcher",
+      "name_pt": "Enferrujado",
+      "confidence": 0.764,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
     }
   ]
 }
