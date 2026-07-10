@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T13:45:02.638626",
+  "exported_at": "2026-07-10T14:00:02.725132",
   "hours": 48,
-  "total": 282,
-  "ok": 280,
+  "total": 291,
+  "ok": 288,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -3110,6 +3110,105 @@
       "azimute": 108.7,
       "azimute_std": 0.5,
       "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:12:49",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.604,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:13:28",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.554,
+      "azimute": 113.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:14:43",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.578,
+      "azimute": 114.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:19:40",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.744,
+      "azimute": 116.5,
+      "azimute_std": 2.3,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:20:37",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.706,
+      "azimute": 121.5,
+      "azimute_std": 1.1,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:20:49",
+      "sci_name": "Patagioenas plumbea",
+      "com_name": "Plumbeous Pigeon",
+      "name_pt": "Pomba-amargosa",
+      "confidence": 0.524,
+      "azimute": 46.1,
+      "azimute_std": 45.5,
+      "quadrante": "NE",
+      "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-10T13:21:25",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.562,
+      "azimute": 129.5,
+      "azimute_std": 1.1,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:21:55",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.521,
+      "azimute": 123.3,
+      "azimute_std": 1.1,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T13:21:58",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.596,
+      "azimute": 122.8,
+      "azimute_std": 1.3,
+      "quadrante": "SE",
       "qualidade": "ok"
     }
   ]
