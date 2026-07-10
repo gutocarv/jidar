@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T07:30:01.414992",
+  "exported_at": "2026-07-10T07:45:01.936131",
   "hours": 48,
-  "total": 81,
-  "ok": 80,
+  "total": 91,
+  "ok": 91,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -896,10 +896,120 @@
       "com_name": "White-tipped Dove",
       "name_pt": "Juriti-pupu",
       "confidence": 0.534,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:25:00",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.527,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:26:18",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.617,
+      "azimute": 95.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:28:46",
+      "sci_name": "Leptotila rufaxilla",
+      "com_name": "Gray-fronted Dove",
+      "name_pt": "Juriti-gemedeira",
+      "confidence": 0.548,
+      "azimute": 93.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:33:30",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.949,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:33:46",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.947,
+      "azimute": 108.3,
+      "azimute_std": 0.7,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:34:21",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.79,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:34:24",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.735,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:35:06",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.745,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:35:09",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.825,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:35:16",
+      "sci_name": "Pyriglena leucoptera",
+      "com_name": "White-shouldered Fire-eye",
+      "name_pt": "Papa-taoca-do-sul",
+      "confidence": 0.953,
+      "azimute": 110.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
