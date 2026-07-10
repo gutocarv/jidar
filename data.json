@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T08:00:02.084929",
+  "exported_at": "2026-07-10T08:15:01.548482",
   "hours": 48,
-  "total": 94,
-  "ok": 93,
+  "total": 96,
+  "ok": 95,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -1043,6 +1043,28 @@
       "azimute_std": 84.9,
       "quadrante": "L",
       "qualidade": "azimute_disperso"
+    },
+    {
+      "datetime": "2026-07-10T07:58:37",
+      "sci_name": "Picumnus temminckii",
+      "com_name": "Ochre-collared Piculet",
+      "name_pt": "Pica-pau-anão-de-coleira",
+      "confidence": 0.539,
+      "azimute": 109.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T08:00:24",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.551,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
     }
   ]
 }
