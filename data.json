@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T13:00:08.633613",
+  "exported_at": "2026-07-10T13:15:01.847189",
   "hours": 48,
-  "total": 268,
-  "ok": 264,
+  "total": 271,
+  "ok": 268,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -2931,8 +2931,8 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.869,
-      "azimute": 56.0,
-      "azimute_std": 0.0,
+      "azimute": 65.1,
+      "azimute_std": 22.5,
       "quadrante": "NE",
       "qualidade": "ok"
     },
@@ -2942,10 +2942,10 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.698,
-      "azimute": null,
-      "azimute_std": null,
-      "quadrante": "?",
-      "qualidade": "sem_dados"
+      "azimute": 117.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
     },
     {
       "datetime": "2026-07-10T12:38:52",
@@ -2953,6 +2953,39 @@
       "com_name": "Ruby-crowned Tanager",
       "name_pt": "Tiê-preto",
       "confidence": 0.58,
+      "azimute": 117.0,
+      "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T12:42:55",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.514,
+      "azimute": 11.7,
+      "azimute_std": 0.5,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T12:43:22",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.522,
+      "azimute": 12.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T12:44:28",
+      "sci_name": "Columbina talpacoti",
+      "com_name": "Ruddy Ground Dove",
+      "name_pt": "Rolinha-púrpura",
+      "confidence": 0.518,
       "azimute": null,
       "azimute_std": null,
       "quadrante": "?",
