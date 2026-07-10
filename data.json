@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T07:45:01.936131",
+  "exported_at": "2026-07-10T08:00:02.084929",
   "hours": 48,
-  "total": 91,
-  "ok": 91,
+  "total": 94,
+  "ok": 93,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -1010,6 +1010,39 @@
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:43:24",
+      "sci_name": "Xenops rutilans",
+      "com_name": "Streaked Xenops",
+      "name_pt": "Bico-virado-carijó",
+      "confidence": 0.862,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:44:04",
+      "sci_name": "Psittacara leucophthalmus",
+      "com_name": "White-eyed Parakeet",
+      "name_pt": "Periquitão-maracanã",
+      "confidence": 0.675,
+      "azimute": 109.7,
+      "azimute_std": 0.7,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T07:44:07",
+      "sci_name": "Psittacara leucophthalmus",
+      "com_name": "White-eyed Parakeet",
+      "name_pt": "Periquitão-maracanã",
+      "confidence": 0.755,
+      "azimute": 107.0,
+      "azimute_std": 84.9,
+      "quadrante": "L",
+      "qualidade": "azimute_disperso"
     }
   ]
 }
