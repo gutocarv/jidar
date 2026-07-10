@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T08:30:01.405554",
+  "exported_at": "2026-07-10T08:45:02.462527",
   "hours": 48,
-  "total": 99,
-  "ok": 98,
+  "total": 102,
+  "ok": 101,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -1096,6 +1096,39 @@
       "confidence": 0.663,
       "azimute": 114.0,
       "azimute_std": 0.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T08:24:58",
+      "sci_name": "Xenops rutilans",
+      "com_name": "Streaked Xenops",
+      "name_pt": "Bico-virado-carijó",
+      "confidence": 0.552,
+      "azimute": 172.0,
+      "azimute_std": 0.0,
+      "quadrante": "S",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T08:31:19",
+      "sci_name": "Pyroderus scutatus",
+      "com_name": "Red-ruffed Fruitcrow",
+      "name_pt": "Pavó",
+      "confidence": 0.883,
+      "azimute": 142.0,
+      "azimute_std": 34.0,
+      "quadrante": "SE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T08:32:25",
+      "sci_name": "Columba livia",
+      "com_name": "Rock Pigeon",
+      "name_pt": "Pombo-das-rochas",
+      "confidence": 0.62,
+      "azimute": 155.2,
+      "azimute_std": 31.7,
       "quadrante": "SE",
       "qualidade": "ok"
     }
