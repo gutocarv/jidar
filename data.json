@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T10:00:01.494836",
+  "exported_at": "2026-07-10T10:15:03.187421",
   "hours": 48,
-  "total": 190,
-  "ok": 189,
+  "total": 199,
+  "ok": 198,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -2096,6 +2096,105 @@
       "name_pt": "Chocão-carijó",
       "confidence": 0.739,
       "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:45:01",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.828,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:45:28",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.868,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:45:46",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.799,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:46:27",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.722,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:46:33",
+      "sci_name": "Cyclarhis gujanensis",
+      "com_name": "Rufous-browed Peppershrike",
+      "name_pt": "Pitiguari",
+      "confidence": 0.641,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:46:49",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.511,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:48:16",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.681,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:48:46",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.617,
+      "azimute": 108.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:51:04",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.84,
+      "azimute": 109.0,
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
