@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T06:30:01.811994",
+  "exported_at": "2026-07-10T06:45:01.475054",
   "hours": 48,
-  "total": 1,
-  "ok": 1,
+  "total": 12,
+  "ok": 11,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -20,6 +20,127 @@
       "azimute_std": 43.5,
       "quadrante": "L",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:25:07",
+      "sci_name": "Turdus rufiventris",
+      "com_name": "Rufous-bellied Thrush",
+      "name_pt": "Sabiá-de-barriga-ruiva",
+      "confidence": 0.526,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:25:19",
+      "sci_name": "Turdus rufiventris",
+      "com_name": "Rufous-bellied Thrush",
+      "name_pt": "Sabiá-de-barriga-ruiva",
+      "confidence": 0.66,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:25:48",
+      "sci_name": "Turdus rufiventris",
+      "com_name": "Rufous-bellied Thrush",
+      "name_pt": "Sabiá-de-barriga-ruiva",
+      "confidence": 0.516,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:26:06",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.509,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:27:31",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.603,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:27:37",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.688,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:28:22",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.583,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:28:34",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.668,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:29:06",
+      "sci_name": "Thamnophilus caerulescens",
+      "com_name": "Variable Antshrike",
+      "name_pt": "Choca-da-mata",
+      "confidence": 0.56,
+      "azimute": 107.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:35:24",
+      "sci_name": "Turdus rufiventris",
+      "com_name": "Rufous-bellied Thrush",
+      "name_pt": "Sabiá-de-barriga-ruiva",
+      "confidence": 0.652,
+      "azimute": 111.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T06:38:54",
+      "sci_name": "Sittasomus griseicapillus",
+      "com_name": "Olivaceous Woodcreeper",
+      "name_pt": "Arapaçu-verde",
+      "confidence": 0.801,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
