@@ -5,9 +5,9 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T09:00:01.960240",
+  "exported_at": "2026-07-10T09:15:02.190649",
   "hours": 48,
-  "total": 114,
+  "total": 115,
   "ok": 113,
   "detections": [
     {
@@ -1263,6 +1263,17 @@
       "azimute_std": 0.0,
       "quadrante": "L",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:04:46",
+      "sci_name": "Tachyphonus coronatus",
+      "com_name": "Ruby-crowned Tanager",
+      "name_pt": "Tiê-preto",
+      "confidence": 0.899,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
