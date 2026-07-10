@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T11:45:10.977672",
+  "exported_at": "2026-07-10T12:00:01.478635",
   "hours": 48,
-  "total": 244,
-  "ok": 243,
+  "total": 247,
+  "ok": 246,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -2692,6 +2692,39 @@
       "azimute": 14.0,
       "azimute_std": 0.0,
       "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:36:58",
+      "sci_name": "Leptotila verreauxi",
+      "com_name": "White-tipped Dove",
+      "name_pt": "Juriti-pupu",
+      "confidence": 0.783,
+      "azimute": 42.9,
+      "azimute_std": 33.7,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:37:37",
+      "sci_name": "Xenops rutilans",
+      "com_name": "Streaked Xenops",
+      "name_pt": "Bico-virado-carijó",
+      "confidence": 0.902,
+      "azimute": 91.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T11:38:13",
+      "sci_name": "Xenops rutilans",
+      "com_name": "Streaked Xenops",
+      "name_pt": "Bico-virado-carijó",
+      "confidence": 0.582,
+      "azimute": 86.0,
+      "azimute_std": 0.0,
+      "quadrante": "L",
       "qualidade": "ok"
     }
   ]
