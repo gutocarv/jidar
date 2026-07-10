@@ -5,10 +5,10 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-10T09:30:01.956609",
+  "exported_at": "2026-07-10T09:45:01.757409",
   "hours": 48,
-  "total": 148,
-  "ok": 147,
+  "total": 164,
+  "ok": 162,
   "detections": [
     {
       "datetime": "2026-07-10T06:19:03",
@@ -1637,6 +1637,182 @@
       "azimute_std": 0.7,
       "quadrante": "N",
       "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:20:43",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.799,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:20:49",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.885,
+      "azimute": 23.0,
+      "azimute_std": 1.4,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:27:34",
+      "sci_name": "Cyclarhis gujanensis",
+      "com_name": "Rufous-browed Peppershrike",
+      "name_pt": "Pitiguari",
+      "confidence": 0.568,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:29:10",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.546,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:30:46",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.627,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:30:49",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.509,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:30:52",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.674,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:31:16",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.621,
+      "azimute": 24.0,
+      "azimute_std": 0.0,
+      "quadrante": "NE",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:31:46",
+      "sci_name": "Chiroxiphia caudata",
+      "com_name": "Swallow-tailed Manakin",
+      "name_pt": "Tangará",
+      "confidence": 0.591,
+      "azimute": 21.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:31:52",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.852,
+      "azimute": 21.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:32:22",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.544,
+      "azimute": 21.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:32:55",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.959,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:33:19",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.504,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:33:34",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.739,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:34:10",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.864,
+      "azimute": 22.0,
+      "azimute_std": 0.0,
+      "quadrante": "N",
+      "qualidade": "ok"
+    },
+    {
+      "datetime": "2026-07-10T09:34:55",
+      "sci_name": "Hypoedaleus guttatus",
+      "com_name": "Spot-backed Antshrike",
+      "name_pt": "Chocão-carijó",
+      "confidence": 0.641,
+      "azimute": null,
+      "azimute_std": null,
+      "quadrante": "?",
+      "qualidade": "sem_dados"
     }
   ]
 }
