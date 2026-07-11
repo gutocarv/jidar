@@ -5,55 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T08:15:02.274312",
+  "exported_at": "2026-07-11T08:30:04.934754",
   "hours": 48,
-  "total": 196,
-  "ok": 194,
+  "total": 192,
+  "ok": 190,
   "detections": [
-    {
-      "datetime": "2026-07-10T08:00:24",
-      "sci_name": "Thamnophilus caerulescens",
-      "com_name": "Variable Antshrike",
-      "name_pt": "Choca-da-mata",
-      "confidence": 0.551,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T08:04:58",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.92,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T08:05:01",
-      "sci_name": "Myiothlypis leucoblephara",
-      "com_name": "White-browed Warbler",
-      "name_pt": "Pula-pula-assobiador",
-      "confidence": 0.923,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T08:08:21",
-      "sci_name": "Thalurania glaucopis",
-      "com_name": "Violet-capped Woodnymph",
-      "name_pt": "Beija-flor-de-testa-violeta",
-      "confidence": 0.663,
-      "azimute": 114.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T08:24:58",
       "sci_name": "Xenops rutilans",
