@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T12:15:02.177359",
+  "exported_at": "2026-07-11T12:30:01.873981",
   "hours": 48,
-  "total": 36,
-  "ok": 35,
+  "total": 34,
+  "ok": 33,
   "detections": [
-    {
-      "datetime": "2026-07-10T12:10:52",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.803,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T12:16:34",
-      "sci_name": "Tolmomyias sulphurescens",
-      "com_name": "Yellow-olive Flycatcher",
-      "name_pt": "Bico-chato-d'orelha-preta",
-      "confidence": 0.513,
-      "azimute": 108.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T12:33:28",
       "sci_name": "Xenops rutilans",
