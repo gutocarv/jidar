@@ -5,77 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T10:30:01.762303",
+  "exported_at": "2026-07-11T10:45:01.881745",
   "hours": 48,
-  "total": 91,
-  "ok": 89,
+  "total": 85,
+  "ok": 83,
   "detections": [
-    {
-      "datetime": "2026-07-10T10:26:43",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.654,
-      "azimute": 196.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:27:58",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.563,
-      "azimute": 196.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:28:40",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.645,
-      "azimute": 196.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:29:22",
-      "sci_name": "Hypoedaleus guttatus",
-      "com_name": "Spot-backed Antshrike",
-      "name_pt": "Chocão-carijó",
-      "confidence": 0.661,
-      "azimute": 183.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:29:58",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.63,
-      "azimute": 183.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:31:46",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.94,
-      "azimute": 172.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T10:44:04",
       "sci_name": "Columbina talpacoti",
