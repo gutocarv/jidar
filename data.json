@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T07:00:03.642984",
+  "exported_at": "2026-07-11T07:15:11.239988",
   "hours": 48,
-  "total": 291,
-  "ok": 288,
+  "total": 290,
+  "ok": 287,
   "detections": [
-    {
-      "datetime": "2026-07-10T06:19:03",
-      "sci_name": "Pyroderus scutatus",
-      "com_name": "Red-ruffed Fruitcrow",
-      "name_pt": "Pavó",
-      "confidence": 0.673,
-      "azimute": 109.7,
-      "azimute_std": 43.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T06:25:07",
       "sci_name": "Turdus rufiventris",
