@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T10:15:01.817689",
+  "exported_at": "2026-07-11T10:30:01.762303",
   "hours": 48,
-  "total": 92,
-  "ok": 90,
+  "total": 91,
+  "ok": 89,
   "detections": [
-    {
-      "datetime": "2026-07-10T10:05:04",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.637,
-      "azimute": 358.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T10:26:43",
       "sci_name": "Columbina talpacoti",
