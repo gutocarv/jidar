@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T08:00:06.494574",
+  "exported_at": "2026-07-11T08:15:02.274312",
   "hours": 48,
-  "total": 197,
-  "ok": 195,
+  "total": 196,
+  "ok": 194,
   "detections": [
-    {
-      "datetime": "2026-07-10T07:58:37",
-      "sci_name": "Picumnus temminckii",
-      "com_name": "Ochre-collared Piculet",
-      "name_pt": "Pica-pau-anão-de-coleira",
-      "confidence": 0.539,
-      "azimute": 109.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T08:00:24",
       "sci_name": "Thamnophilus caerulescens",
