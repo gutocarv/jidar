@@ -5,99 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T10:45:01.881745",
+  "exported_at": "2026-07-11T11:00:01.777472",
   "hours": 48,
-  "total": 85,
-  "ok": 83,
+  "total": 77,
+  "ok": 75,
   "detections": [
-    {
-      "datetime": "2026-07-10T10:44:04",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.668,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:44:07",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.594,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:44:10",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.699,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:44:37",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.796,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:44:40",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.714,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:45:28",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.839,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:45:31",
-      "sci_name": "Columbina talpacoti",
-      "com_name": "Ruddy Ground Dove",
-      "name_pt": "Rolinha-púrpura",
-      "confidence": 0.683,
-      "azimute": 111.0,
-      "azimute_std": 0.0,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T10:54:58",
-      "sci_name": "Lathrotriccus euleri",
-      "com_name": "Euler's Flycatcher",
-      "name_pt": "Enferrujado",
-      "confidence": 0.749,
-      "azimute": 125.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T10:55:10",
       "sci_name": "Lathrotriccus euleri",
