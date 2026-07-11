@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T08:30:04.934754",
+  "exported_at": "2026-07-11T08:45:03.045269",
   "hours": 48,
-  "total": 192,
-  "ok": 190,
+  "total": 191,
+  "ok": 189,
   "detections": [
-    {
-      "datetime": "2026-07-10T08:24:58",
-      "sci_name": "Xenops rutilans",
-      "com_name": "Streaked Xenops",
-      "name_pt": "Bico-virado-carijó",
-      "confidence": 0.552,
-      "azimute": 172.0,
-      "azimute_std": 0.0,
-      "quadrante": "S",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T08:31:19",
       "sci_name": "Pyroderus scutatus",
