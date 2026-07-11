@@ -5,22 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T11:15:01.960468",
+  "exported_at": "2026-07-11T11:30:01.811103",
   "hours": 48,
-  "total": 48,
-  "ok": 46,
+  "total": 47,
+  "ok": 45,
   "detections": [
-    {
-      "datetime": "2026-07-10T11:19:04",
-      "sci_name": "Rhopias gularis",
-      "com_name": "Star-throated Antwren",
-      "name_pt": "Choquinha-de-garganta-pintada",
-      "confidence": 0.678,
-      "azimute": 14.0,
-      "azimute_std": 0.0,
-      "quadrante": "N",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T11:36:58",
       "sci_name": "Leptotila verreauxi",
