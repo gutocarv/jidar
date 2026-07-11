@@ -5,33 +5,11 @@
     "height_m": 9,
     "axis": "NS"
   },
-  "exported_at": "2026-07-11T13:00:01.842109",
+  "exported_at": "2026-07-11T13:15:01.546866",
   "hours": 48,
-  "total": 11,
-  "ok": 10,
+  "total": 9,
+  "ok": 8,
   "detections": [
-    {
-      "datetime": "2026-07-10T12:55:16",
-      "sci_name": "Synallaxis ruficapilla",
-      "com_name": "Rufous-capped Spinetail",
-      "name_pt": "Pichororé",
-      "confidence": 0.53,
-      "azimute": 117.0,
-      "azimute_std": 0.0,
-      "quadrante": "SE",
-      "qualidade": "ok"
-    },
-    {
-      "datetime": "2026-07-10T12:58:40",
-      "sci_name": "Colaptes melanochloros",
-      "com_name": "Green-barred Woodpecker",
-      "name_pt": "Pica-pau-verde-barrado",
-      "confidence": 0.534,
-      "azimute": 108.7,
-      "azimute_std": 0.5,
-      "quadrante": "L",
-      "qualidade": "ok"
-    },
     {
       "datetime": "2026-07-10T13:12:49",
       "sci_name": "Leptotila rufaxilla",
